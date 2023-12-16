@@ -21,11 +21,20 @@ http://palatv34.ozelip.com:22372/farkturktv/farkturktv/playlist.m3u8
 #EXTINF: -1 group-title="Sinema", FİL TV
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
 
+#EXTINF: -1 group-title="Sinema", FİLMAX
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1282/index.m3u8
+
 #EXTINF: -1 group-title="Sinema", FİLM CLUP
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m3u8
 
 #EXTINF: -1 group-title="Sinema", FİLM CLUP ACTİON
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
+
+#EXTINF: -1 group-title="Sinema", FİLM CLUP KOMEDİ
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1283/index.m3u8
+
+#EXTINF: -1 group-title="Sinema", FİLM CLUP FAMILY
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1285/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",DEMİRCİ TV
 https://demircitv.ozelip.com:3892/hybrid/play.m3u8
