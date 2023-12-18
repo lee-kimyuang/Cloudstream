@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAWxXSr0425IPn9W3a1MRD2HBC8.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E01
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoppyhODhbV048sWdbJgb9jYug8.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E02
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cXBIyGFYS1Tv4ONqj1pce93fs8.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E03
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6ZhfieAh5PulBIp0jgr2b8WFQ1.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E04
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzoS1qGcz5LVxtJooDlzCFSZweL.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E05
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKaWMqEzg19HaSHmaI4lmV1QI4y.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E06
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNtlLzdiEDXQOs3yb7N0144erM1.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E07
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSK0PD9rsrHPIrQPRfBpRUG1rJP.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E08
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8xJkv6VdXeeukpURIwuJlUZAYX.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E09
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTZSriPcfe8Qie4l76crERAgsMD.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S01 E10
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/34249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDMT3nTgEoaFeSLRJdt3UMreFIg.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S02 E01
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/44280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDMT3nTgEoaFeSLRJdt3UMreFIg.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S02 E02
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/44281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDMT3nTgEoaFeSLRJdt3UMreFIg.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S02 E03
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/44282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDMT3nTgEoaFeSLRJdt3UMreFIg.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S02 E04
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/44283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDMT3nTgEoaFeSLRJdt3UMreFIg.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S02 E05
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/44284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDMT3nTgEoaFeSLRJdt3UMreFIg.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S02 E06
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/44285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDMT3nTgEoaFeSLRJdt3UMreFIg.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S02 E07
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/44286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HeMan Ve Kainatın Hakimleri S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDMT3nTgEoaFeSLRJdt3UMreFIg.jpg" group-title="ANİMASYON DİZİLER",HeMan Ve Kainatın Hakimleri S02 E08
+http://panel.meytv.org:8080/series/altuntabakayberk207/VR9B734y9H/44287.mkv

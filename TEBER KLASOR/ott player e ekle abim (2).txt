@@ -1,0 +1,14 @@
+#EXTINF:-1 group-title="📻 KARADENIZ" ,SLOW KARADENIZ TV
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+
+#EXTINF:-1 group-title="📻 RIZE" ,RIZE TURK TV
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:-1 group-title="📻 KARADENIZ" ,SLOW KARADENIZ FM 
+https://dinle.slowkaradenizfm.com:9578/;
+
+#EXTINF:-1 group-title="📻 KARADENIZ" ,KARADENIZ TURK
+https://ip231.ozelip.com:8042/;
+
+#EXTINF:-1 group-title="📻 RIZE" ,RIZE TURK
+https://ip231.ozelip.com:8044/;
