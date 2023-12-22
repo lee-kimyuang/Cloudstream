@@ -96,6 +96,8 @@ https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF: -1 group-title="Sinema", Blu Play 2
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 
+--------UNIVERSAL --TR-SINEMA----------------
+
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL SONVIZYON" tvg-logo="http://logo.hdplustv.us/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL SONVIZYON
 http://143951.iptvone.eu:80/ilyasyaltirik/or2GwmeaDW/222407
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL CHOICE" tvg-logo="http://logo.hdplustv.us/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL CHOICE
