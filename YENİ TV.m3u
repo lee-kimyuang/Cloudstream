@@ -1,0 +1,307 @@
+#EXTM3U 
+#EXTINF: -1 group-title="Ulusal", TRT 1
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/5/index.m3u8
+
+#EXTINF:0 user-agent="Firefox" tvg-id="TRT 4K" tvg-name="TR: TRT 4K" tvg-logo="http://logo.hdplustv.us/logoslar/trt4k.png" group-title="TR-ULUSAL",TR: TRT 4K
+http://143951.iptvone.eu:80/ilyasyaltirik/or2GwmeaDW/51
+
+#EXTINF: -1 group-title="Ulusal", ATV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
+
+#EXTINF: -1 group-title="Ulusal", SHOW
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/11/index.m3u8
+
+#EXTINF: -1 group-title="Ulusal", STAR
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/14/index.m3u8
+
+#EXTINF: -1 group-title="Ulusal", KANAL D
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/17/index.m3u8
+
+#EXTINF: -1 group-title="Ulusal", FOX
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/20/index.m3u8
+
+#EXTINF: -1 group-title="Ulusal", TV2
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/34/index.m3u8
+
+#EXTINF: -1 group-title="Ulusal", TV8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
+
+#EXTINF: -1 group-title="Ulusal", TV8.5
+https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
+
+#EXTINF: -1 group-title="Ulusal", BEYAZ
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/31/index.m3u8
+
+#EXTINF: -1 group-title="Ulusal", TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF: -1 group-title="Ulusal", 360TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/37/index.m3u8
+
+#EXTINF: -1 group-title="Ulusal", TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF: -1 group-title="Ulusal", DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",TEBER STAR1
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR1 EURO
+https://rpn3.bozztv.com/ssh101/ssh101/teberstar1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR2
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR3 M.TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3u8
+
+#EXTINF:-1,TR: ROMAN TV
+http://143951.iptvone.eu:80/ilyasyaltirik/or2GwmeaDW/23976
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER ON 
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER ON EURO
+https://rpn3.bozztv.com/ssh101/ssh101/teber_on/playlist.m3u8
+
+#EXTINF: -1 group-title="Sinema", TeleON
+https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
+
+#EXTINF: -1 group-title="Sinema", FİL TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
+
+#EXTINF: -1 group-title="Sinema", FİLMAX
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1282/index.m3u8
+
+#EXTINF: -1 group-title="Sinema", FİLM CLUP
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m3u8
+
+#EXTINF: -1 group-title="Sinema", FİLM CLUP ACTİON
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
+
+#EXTINF: -1 group-title="Sinema", FİLM CLUP KOMEDİ
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1283/index.m3u8
+
+#EXTINF: -1 group-title="Sinema", FİLM CLUP FAMILY
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1285/index.m3u8
+
+#EXTINF:-1,TR: TARIH TV
+http://143951.iptvone.eu:80/ilyasyaltirik/or2GwmeaDW/140595
+
+#EXTINF: -1 group-title="Sinema", Şaban Tv
+https://tivi191.ozelip.com:3463/stream/play.m3u8
+
+#EXTINF: -1 group-title="Sinema", EM TV
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
+
+#EXTINF: -1 group-title="Sinema", DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+#EXTINF: -1 group-title="Belgesel", CLC TV
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+
+#EXTINF: -1 group-title="Belgesel", ADA TV
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+
+#EXTINF: -1 group-title="Sinema", Blu Play 1
+https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
+
+#EXTINF: -1 group-title="Sinema", Blu Play 2
+https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR2 
+https://rpn3.bozztv.com/ssh101/ssh101/teberstar2/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR3 m.tv
+https://rpn3.bozztv.com/ssh101/ssh101/teberstar3/playlist.m3u8
+
+#EXTINF: -1 group-title="Sinema", FİLM CLUP FAMILY
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1285/index.m3u8
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_haber.png" tvg-name="|TR| TRT HABER HD" group-title="TR➾ Full Liste",-1   , |TR| TRT HABER HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110125
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="http://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/TURKIYE/HABERTURKHDPLUS.png" tvg-name="|TR| HABER TÜRK HD" group-title="TR➾ Full Liste",-1    , |TR| HABER TÜRK HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110126
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/cnn_turk.png" tvg-name="|TR| CNN TÜRK HD" group-title="TR➾ Full Liste",-1   , |TR| CNN TÜRK HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110127
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/a_haber.png" tvg-name="|TR| A HABER HD" group-title="TR➾ Full Liste",-1   , |TR| A HABER HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110131
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/haber_global.png" tvg-name="|TR| HABER GLOBAL HD" group-title="TR➾ Full Liste",-1    , |TR| HABER GLOBAL HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110128
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tgrt_haber.png" tvg-name="|TR| TGRT HABER HD" group-title="TR➾ Full Liste",-1    , |TR| TGRT HABER HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110130
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/ntv_haber.png" tvg-name="|TR| NTV HD" group-title="TR➾ Full Liste",-1    , |TR| NTV HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110135
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/halk_tv.png" tvg-name="|TR| HALK TV HD" group-title="TR➾ Full Liste",-1    , |TR| HALK TV HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110136
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tele_1.png" tvg-name="|TR| TELE 1 HD" group-title="TR➾ Full Liste",-1    , |TR| TELE 1 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110137
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2a/S%C3%B6zc%C3%BC_TV_Logosu.jpg" tvg-name="|TR| SOZCU TV" group-title="TR➾ Full Liste",-1   , |TR| SOZCU TV
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/167259
+#EXTINF:-1 tvg-id="KRT.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/krt.png" tvg-name="|TR| KRT TV" group-title="TR➾ Full Liste",-1    , |TR| KRT TV
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/136140
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tv_100.png" tvg-name="|TR| TV 100 HD" group-title="TR➾ Full Liste",-1    , |TR| TV 100 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110133
+#EXTINF:-1 tvg-logo="https://s.ulusal.com.tr/assets/web/images/logo.png" tvg-name="|TR| ULUSAL TV" group-title="TR➾ Full Liste",-1   , |TR| ULUSAL TV
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/155317
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" tvg-name="|TR| SPOR SMART 1 HD" group-title="TR➾ Full Liste",-1   , |TR| SPOR SMART 1 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/170647
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" tvg-name="|TR| SPOR SMART 2 HD" group-title="TR➾ Full Liste",-1   , |TR| SPOR SMART 2 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/136490
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/eurosport1.png" tvg-name="|TR| EUROSPORT 1 HD" group-title="TR➾ Full Liste",-1   , |TR| EUROSPORT 1 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/138971
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/eurosport2.png" tvg-name="|TR| EUROSPORT 2 HD" group-title="TR➾ Full Liste",-1   , |TR| EUROSPORT 2 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/138972
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/TURKIYE/BEINMOVIEST%c3%9cRK.png" tvg-name="|TR| MOVIE SMART TÜRK" group-title="TR➾ Full Liste",-1   , |TR| MOVIE SMART TÜRK
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110159
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_premium.png" tvg-name="|TR| MOVIE SMART PREMIUM 1" group-title="TR➾ Full Liste",-1   , |TR| MOVIE SMART PREMIUM 1
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110160
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_premium_2.png" tvg-name="|TR| MOVIE SMART PREMIUM 2" group-title="TR➾ Full Liste",-1   , |TR| MOVIE SMART PREMIUM 2
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110161
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_family.png" tvg-name="|TR| MOVIE SMART FAMİLY" group-title="TR➾ Full Liste",-1   , |TR| MOVIE SMART FAMİLY
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110164
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/movismart_action.png" tvg-name="|TR| MOVIE SMART ACTION" group-title="TR➾ Full Liste",-1   , |TR| MOVIE SMART ACTION
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110165
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/dizismart_max.png" tvg-name="|TR| DIZI SMART MAX" group-title="TR➾ Full Liste",-1   , |TR| DIZI SMART MAX
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145567
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" tvg-name="|TR| TIVIBU SPOR 1 FHD" group-title="TR➾ Full Liste",-1   , |TR| TIVIBU SPOR 1 FHD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110492
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tivibu_spor_2.png" tvg-name="|TR| TIVIBU SPOR 2 FHD" group-title="TR➾ Full Liste",-1   , |TR| TIVIBU SPOR 2 FHD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110493
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tivibu_spor_3.png" tvg-name="|TR| TIVIBU SPOR 3 FHD" group-title="TR➾ Full Liste",-1   , |TR| TIVIBU SPOR 3 FHD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145467
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tivibu_spor_4.png" tvg-name="|TR| TIVIBU SPOR 4 FHD" group-title="TR➾ Full Liste",-1   , |TR| TIVIBU SPOR 4 FHD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145468
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/sinema_tv.png" tvg-name="|TR| SINEMA TV 1" group-title="TR➾ Full Liste",-1   , |TR| SINEMA TV 1
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145569
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/sinema_tv_2.png" tvg-name="|TR| SINEMA TV 2" group-title="TR➾ Full Liste",-1   , |TR| SINEMA TV 2
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145570
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/sinema_aile.png" tvg-name="|TR| SINEMA TV AILE" group-title="TR➾ Full Liste",-1   , |TR| SINEMA TV AILE
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145571
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/sinema_aksiyon.png" tvg-name="|TR| SINEMA TV AKSIYON 1" group-title="TR➾ Full Liste",-1   , |TR| SINEMA TV AKSIYON 1
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145572
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/sinema_aksiyon.png" tvg-name="|TR| SINEMA TV AKSIYON 2" group-title="TR➾ Full Liste",-1   , |TR| SINEMA TV AKSIYON 2
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145573
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/sinema_yerli.png" tvg-name="|TR| SINEMA TV YERLI" group-title="TR➾ Full Liste",-1   , |TR| SINEMA TV YERLI
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145574
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/sinema_komedi.png" tvg-name="|TR| SINEMA TV KOMEDİ" group-title="TR➾ Full Liste",-1   , |TR| SINEMA TV KOMEDİ
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/145575
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/sinema_komedi.png" tvg-name="|TR| MAX KOMEDİ 1" group-title="TR➾ Full Liste",-1   , |TR| MAX KOMEDİ 1
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110169
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" tvg-name="|TR| WEST SİNEMA TV 1 HD" group-title="TR➾ Full Liste",-1   , |TR| WEST SİNEMA TV 1 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110340
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/locatv/loca1.png" tvg-name="|TR| YERLI VIZYON 1" group-title="TR➾ Full Liste",-1   , |TR| YERLI VIZYON 1
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110390
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/Animasyon_logo/6.png" tvg-name="|TR| YERLIBOX KOMEDI 1" group-title="TR➾ Full Liste",-1   , |TR| YERLIBOX KOMEDI 1
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110415
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/SinemaKanallari/cinemawest.png" tvg-name="|TR| YERLIBOX KORKU 1" group-title="TR➾ Full Liste",-1   , |TR| YERLIBOX KORKU 1
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110347
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/slsinemakemalsunal1.png" tvg-name="|TR| KEMAL SUNAL TV 1" group-title="TR➾ Full Liste",-1   , |TR| KEMAL SUNAL TV 1
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110264
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" tvg-name="|TR| ŞENER ŞEN TV" group-title="TR➾ Full Liste",-1   , |TR| ŞENER ŞEN TV
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110266
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="TR➾ Full Liste",-1  , 1TR: NTVSPOR HD
+http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f4525d90-5593-11ee-b36d-b5080db03173/5302233/934248662.jpeg" group-title="TR➾ Full Liste",-1  , 2TR: bSPORTS 1 HD
+http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f4525d90-5593-11ee-b36d-b5080db03173/5302233/934248663.jpeg" group-title="TR➾ Full Liste",-1  , 3TR: bSPORTS 2 HD
+http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN TV SD" group-title="TR➾ Full Liste",-1   , |TR| EXXEN TV SD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/171576
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 1 SD (Mac Zamani)" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 1 SD (Mac Zamani)
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110482
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 1 HD (Mac Zamani)" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 1 HD (Mac Zamani)
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110483
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 1 HD TURKIYE" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 1 HD TURKIYE
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/171245
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 2 HD (Mac Zamani)" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 2 HD (Mac Zamani)
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110484
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 2 HD TURKIYE" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 2 HD TURKIYE
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/171247
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 3 HD (Mac Zamani)" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 3 HD (Mac Zamani)
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110485
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 3 HD TURKIYE" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 3 HD TURKIYE
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/171248
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 4 HD (Mac Zamani)" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 4 HD (Mac Zamani)
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110486
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 4 HD TURKIYE" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 4 HD TURKIYE
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/171249
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 5 HD (Mac Zamani)" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 5 HD (Mac Zamani)
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110487
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 5 HD TURKIYE" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 5 HD TURKIYE
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/171250
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 6 HD (Mac Zamani)" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 6 HD (Mac Zamani)
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110488
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 6 HD TURKIYE" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 6 HD TURKIYE
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/171251
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 7 HD (Mac Zamani)" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 7 HD (Mac Zamani)
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110489
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 7 HD TURKIYE" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 7 HD TURKIYE
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/171252
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 8 HD (Mac Zamani)" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 8 HD (Mac Zamani)
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110490
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Exxen.png.png" tvg-name="|TR| EXXEN SPOR 8 HD TURKIYE" group-title="TR➾ Full Liste",-1   , |TR| EXXEN SPOR 8 HD TURKIYE
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/171253
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_spor.png" tvg-name="|TR| TRT SPOR HD" group-title="TR➾ Full Liste",-1    , |TR| TRT SPOR HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110501
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/a_spor.png" tvg-name="|TR| A Spor HD" group-title="TR➾ Full Liste",-1   , |TR| A Spor HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110504
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/fb_tv.png" tvg-name="|TR| FB TV" group-title="TR➾ Full Liste",-1   , |TR| FB TV
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110505
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/gs_tv.png" tvg-name="|TR| GS TV" group-title="TR➾ Full Liste",-1   , |TR| GS TV
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110506
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/nba_tv.png" tvg-name="|TR| NBA TV HD" group-title="TR➾ Full Liste",-1    , |TR| NBA TV HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110503
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/tay_tv.png" tvg-name="|TR| TAY TV HD" group-title="TR➾ Full Liste",-1   , |TR| TAY TV HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110508
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_1.png" tvg-name="|TR| TRT 1 HD" group-title="TR➾ Full Liste",-1    , |TR| TRT 1 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109951
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/star.png" tvg-name="|TR| STAR TV HD" group-title="TR➾ Full Liste",-1    , |TR| STAR TV HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109960
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/show.png" tvg-name="|TR| SHOW TV HD" group-title="TR➾ Full Liste",-1    , |TR| SHOW TV HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109956
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/ATVHD.png" tvg-name="|TR| ATV HD" group-title="TR➾ Full Liste",-1    , |TR| ATV HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/118979
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/kanald.png" tvg-name="|TR| KANAL D HD" group-title="TR➾ Full Liste",-1    , |TR| KANAL D HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109958
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/TURKIYE/FOX.png" tvg-name="|TR| FOX TV  HD" group-title="TR➾ Full Liste",-1    , |TR| FOX TV  HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109962
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="|TR| TV 8 HD" group-title="TR➾ Full Liste",-1    , |TR| TV 8 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109964
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/TURKIYE/TV8.5HD.png" tvg-name="|TR| TV 8.5 HD" group-title="TR➾ Full Liste",-1    , |TR| TV 8.5 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109965
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/beyaz.png" tvg-name="|TR| BEYAZ TV HD" group-title="TR➾ Full Liste",-1    , |TR| BEYAZ TV HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109963
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/TURKIYE/KANAL7.png" tvg-name="|TR| KANAL 7 HD" group-title="TR➾ Full Liste",-1    , |TR| KANAL 7 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109967
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/360.png" tvg-name="|TR| 360 TV" group-title="TR➾ Full Liste",-1    , |TR| 360 TV
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109966
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/TURKIYE/A2HDPLUS.png" tvg-name="|TR| A2 HD" group-title="TR➾ Full Liste",-1    , |TR| A2 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109968
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/teve2.png" tvg-name="|TR| TEVE 2 HD" group-title="TR➾ Full Liste",-1    , |TR| TEVE 2 HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/109969
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/national_geo.png" tvg-name="|TR| NATIONAL GEO HD" group-title="TR➾ Full Liste",-1    , |TR| NATIONAL GEO HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110432
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/national_geo_wild.png" tvg-name="|TR| NATIONAL GEO WILD HD" group-title="TR➾ Full Liste",-1    , |TR| NATIONAL GEO WILD HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110433
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/discovery_channel.png" tvg-name="|TR| DISCOVERY CHANNEL HD" group-title="TR➾ Full Liste",-1    , |TR| DISCOVERY CHANNEL HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110434
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bbc_earth.png" tvg-name="|TR| BBC EARTH HD" group-title="TR➾ Full Liste",-1   , |TR| BBC EARTH HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110449
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/history_channel.png" tvg-name="|TR| HISTORY HD" group-title="TR➾ Full Liste",-1   , |TR| HISTORY HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110452
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/dmax.png" tvg-name="|TR| DMAX HD" group-title="TR➾ Full Liste",-1    , |TR| DMAX HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110455
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_belgesel.png" tvg-name="|TR| TRT BELGESEL HD" group-title="TR➾ Full Liste",-1    , |TR| TRT BELGESEL HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110463
+#EXTINF:-1 tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/viasat_history.png" tvg-name="|TR| VIASAT HISTORY HD" group-title="TR➾ Full Liste",-1   , |TR| VIASAT HISTORY HD
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/136489
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/trt_cocuk.png" tvg-name="|TR| TRT ÇOCUK" group-title="TR➾ Full Liste",-1    , |TR| TRT ÇOCUK
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110701
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/minika_cocuk.png" tvg-name="|TR| MİNİKA ÇOCUK" group-title="TR➾ Full Liste",-1    , |TR| MİNİKA ÇOCUK
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110703
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/CARTOONNETWORK.png" tvg-name="|TR| CARTOON NETWORK" group-title="TR➾ Full Liste",-1   , |TR| CARTOON NETWORK
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110704
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/boomerang.png" tvg-name="|TR| BOOMERANG TV" group-title="TR➾ Full Liste",-1   , |TR| BOOMERANG TV
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110708
+#EXTINF:-1 tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkey/minika_go.png" tvg-name="|TR| MİNİKA GO" group-title="TR➾ Full Liste",-1   , |TR| MİNİKA GO
+http://monster1tv.xyz:8080/emrah46/vedTvcQ3ZF/110710
