@@ -222,12 +222,6 @@ https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
 
 #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",ÇAKAL SPOR TV 
-https://corsproxy.org/?https://esra-erol-fileli-corap.esraerolofffff.workers.dev/hls/bein-sports-1.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",ÇAKAL SPOR TV YDK
-https://www.hlsplayer.org/play?url=https%3A%2F%2Fcorsproxy.org%2F%3Fhttps%3A%2F%2Fesra-erol-fileli-corap.esraerolofffff.workers.dev%2Fhls%2Fbein-sports-1.m3u8
-
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
@@ -255,6 +249,46 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
+***SMS TV***************
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",ARMA TV 
+https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",ARABESK TV 
+https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",DAMAR TV 
+https://tvsms.club/tv.php?kanal=damar&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",ALASKA TV 
+https://tvsms.club/tvy.php?kanal=alaska&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",CAN DOST TV 
+https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",EZO TV 
+https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",GENÇ TV 
+https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",KANAL YALOVA TV 
+https://tvsms.club/tv.php?kanal=kanalyalova&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",ZEYNO TV 
+https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",SILA TV 
+https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",VİVA TV 
+https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",TOPPOP TV 
+https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",VADİM TV 
+https://tvsms.club/tv.php?kanal=vadim&file=.m3u8
 
 
 ******************NTV SPOR PAKETİ**SİNEMA*********************
