@@ -57,11 +57,11 @@ https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m
 #EXTINF: -1 group-title="Sinema", FİLM CLUP ACTİON
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
 
-#EXTINF: -1 group-title="Sinema", FİLM CLUP KOMEDİ
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1283/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",YEŞİLÇAM TV1 
+https://new.cache-stream.workers.dev/stream/UCulg-mlXf314L1pemPqCVng/live.m3u8
 
-#EXTINF: -1 group-title="Sinema", FİLM CLUP FAMILY
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1285/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",YEŞİLÇAM TV2 
+https://new.cache-stream.workers.dev/stream/UCHumSHRFQ8skiHTY75sxytQ/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",CANLI1TV
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
