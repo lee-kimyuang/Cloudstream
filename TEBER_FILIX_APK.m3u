@@ -242,46 +242,6 @@ http://77.68.121.3/hls/stream.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png,YANSIMA DANS TV
 https://proxy.linkeddatafragments.org/https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
-***SMS TV***************
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",ARMA TV 
-https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",ARABESK TV 
-https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",DAMAR TV 
-https://tvsms.club/tv.php?kanal=damar&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",ALASKA TV 
-https://tvsms.club/tvy.php?kanal=alaska&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",CAN DOST TV 
-https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",EZO TV 
-https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",GENÇ TV 
-https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",KANAL YALOVA TV 
-https://tvsms.club/tv.php?kanal=kanalyalova&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",ZEYNO TV 
-https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",SILA TV 
-https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",VİVA TV 
-https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",TOPPOP TV 
-https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",VADİM TV 
-https://tvsms.club/tv.php?kanal=vadim&file=.m3u8
 
 ***NTV SPOR PAKETİ**SİNEMA*****
 
