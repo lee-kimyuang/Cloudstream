@@ -48,10 +48,6 @@ https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT WEP
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AFYON TÜRK TV
-https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",EMRET KOMUTANIM TV
 https://new.cache-stream.workers.dev/stream/UCGKPVBUcJcEMvqceX3Pl5Lw/live.m3u8
 
@@ -66,24 +62,6 @@ https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m
 
 #EXTINF: -1 group-title="Sinema", FİLM CLUP ACTİON
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER ON 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
-
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: ROMAN TV" tvg-logo="http://logo.multicms.info/logoslar/roman.png" group-title="TR-MUZIK",TR: ROMAN TV
-http://143951.iptvone.eu:80/ufukhalis/ndl62532144/23976
-
-#EXTINF: -1 group-title="Sinema", TeleON
-https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA sinema TV 
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT TV HD
-https://vrttv.ozelip.com:3644/hybrid/play.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT WEP
-https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AFYON TÜRK TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
