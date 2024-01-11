@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",BİZİM TV1 SİNEMA
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv1/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv1/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV2 EHLİBEYT
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv2/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv2/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV3 MÜZİK
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv3/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv3/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV4 çocuk
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv4/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv4/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR TV
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Teber_star_tv/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Teber_star_tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER BİZ ON TV
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Biz_on_tv/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Biz_on_tv/playlist.m3u8
 
 #EXTINF: -1 group-title="Sinema", TeleON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
@@ -25,11 +25,13 @@ https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_h
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA sinema TV 
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SUPERMAN TV
+http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/132577.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM MEDYA TV
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_spor_tv/playlist.m3u8
-
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_spor_tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -40,67 +42,9 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_GÜNDEM" logo="/İPTV_GÜNDEM-logo-2.png",kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
-#EXTINF: -1 group-title="Ulusal", TRT 4K
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1810
-
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
-EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",KANAL 7 HD
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/ULUSAL-logo-2.png", Kanal 7 Avrupa
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="[TR] TV8 HD" tvg-logo="https://static.epg.best/tr/TV8.tr.png" group-title="TR➤ ULUSAL",TV8 HD
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
-
-#EXTINF:-1,TR: TV 8 INT
-http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6515.m3u
-
-#EXTINF: -1 group-title="Ulusal", TV8.5
-https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
-
-#EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW TURK HD
-https://showturk.blutv.com/blutv_showturk2/live.m3u8  
-
-#EXTINF: -1 group-title="Ulusal", SHOW MAX
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/534
-
-#EXTINF: -1 group-title="Ulusal", Exxen TV
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300384
-
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
-http://canli.haber365.com.tr/tr/startv/index.m3u8
-
-#EXTINF:-1,TR: EURO STAR
-http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6511.m3u
-
-#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-
-#EXTINF: -1 group-title="Ulusal", EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-
-#EXTINF:-1,TR: ATV AVRUPA
-http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6510.m3u
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV HD
-http://116.202.238.88/ATV_TR/index.m3u8
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", A2 
-https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8
-
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 TV FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",TV 360 FHD
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
-#EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF: -1 group-title="Sinema", FİL TV
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
 
@@ -113,18 +57,43 @@ https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m
 #EXTINF: -1 group-title="Sinema", FİLM CLUP ACTİON
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
 
-
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AKTİF TV
+http://nrttn172.kesintisizyayin.com:29010/aktif/aktif/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT TV HD
 https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AFYON TÜRK TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV 1
+https://tivi191.ozelip.com:3463/stream/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV 2
+https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV 3
 http://new.cache-stream.workers.dev/stream/UCoIUysIrvGxoDw-GkdOGjRw/live.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV2
-http://new.cache-stream.workers.dev/stream/UCE1XdVHzOdMnUsUMatIzjag/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.KOBİM TV
+http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",WOMAN TV
+https://embedlp.becdn.net/womantv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",G.İZ TV
+http://nrttn172.kesintisizyayin.com:29010/acitv/acitv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SİLE TV
+http://164.132.23.92:22372/siletv/siletv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SOLAKLI TV
+http://164.132.23.92:22372/solak/solak/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.KILİNİKLERİ TV
+http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİYAR TV
+https://yayin30.haber100.com/live/diyartv/chunklist_w1634409720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",YEŞİLÇAM TV1 
 https://new.cache-stream.workers.dev/stream/UCulg-mlXf314L1pemPqCVng/live.m3u8
@@ -281,6 +250,44 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ANGARA_BELEDİYESİ" logo="/ANGAR_BELEDİYESİ_TV-logo-2.png",YUSUF ELİ
 https://cdn-yusufelibeltrtv.yayin.com.tr/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",KANAL 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/ULUSAL-logo-2.png", Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="[TR] TV8 HD" tvg-logo="https://static.epg.best/tr/TV8.tr.png" group-title="TR➤ ULUSAL",TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
+
+#EXTINF: -1 group-title="Ulusal", TV8.5
+https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
+
+#EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW TURK HD
+https://showturk.blutv.com/blutv_showturk2/live.m3u8  
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV HD
+http://116.202.238.88/ATV_TR/index.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", A2 
+https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 TV FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",TV 360 FHD
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL 28
 http://palatv34.ozelip.com:22372/kanal28/kanal28/playlist.m3u8
 
@@ -290,233 +297,46 @@ http://77.68.121.3/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png,YANSIMA MÜZİK TV
 https://proxy.linkeddatafragments.org/https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 
-#EXTINF: -1 group-title="Sinema", Şaban TV 1
-https://tivi191.ozelip.com:3463/stream/play.m3u8
-#EXTINF: -1 group-title="Sinema", Şaban TV 2
-https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
+#EXTM3U 
 
-#EXTINF: -1 group-title="Sinema", Yeşilçam 1
-https://ythls.armelin.one/channel/UCulg-mlXf314L1pemPqCVng.m3u8
-#EXTINF: -1 group-title="Sinema", Yeşilçam 2
-https://ythls.armelin.one/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
-#EXTINF: -1 group-title="Sinema", TeleON
-https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
-#EXTINF: -1 group-title="Sinema", YanSinema
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
-#EXTINF: -1 group-title="Sinema", FİL TV
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
-#EXTINF: -1 group-title="Sinema", FİLMAX
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1282/index.m3u8
-#EXTINF: -1 group-title="Sinema", FİLM CLUP
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m3u8
-#EXTINF: -1 group-title="Sinema", FİLM CLUP ACTİON
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
-#EXTINF: -1 group-title="Sinema", FİLM CLUP KOMEDİ
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1283/index.m3u8
-#EXTINF: -1 group-title="Sinema", FİLM CLUP FAMILY
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1285/index.m3u8
-#EXTINF: -1 group-title="Sinema", FILMBOX
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4451.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA TV
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4463.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA 2
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4456.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA AKSİYON
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4457.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA AKSİYON 2
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4458.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA AİLE
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4459.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA AİLE 2
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4460.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA KOMEDİ
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4461.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA KOMEDİ 2
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4462.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA 1001
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4454.ts
-#EXTINF: -1 group-title="Sinema", SİNEMA 1002
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4455.ts
-#EXTINF: -1 group-title="Sinema", FX HD
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4476.ts
-#EXTINF: -1 group-title="Sinema", FOX CRIME HD
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4475.ts
-#EXTINF: -1 group-title="Sinema", DİZİ PREMIUM
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4471.ts
-#EXTINF: -1 group-title="Sinema", DİZİSMART MAX
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4472.ts
-#EXTINF: -1 group-title="Sinema", MOVIE CLASSIC
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4478.ts
-#EXTINF: -1 group-title="Sinema", MOVIE TÜRK
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4479.ts
-#EXTINF: -1 group-title="Sinema", Blu Play 1
-https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF: -1 group-title="Sinema", Blu Play 2
-https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF: -1 group-title="Movie", Moovie Aksyon
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300435
-#EXTINF: -1 group-title="Movie", Moovie Komedi
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300403
-#EXTINF: -1 group-title="Movie", Moovie Turk
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300465
-#EXTINF: -1 group-title="Movie", Moovie Turk 1
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300440
-#EXTINF: -1 group-title="Movie", Moovie Turk 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300475
-#EXTINF: -1 group-title="Movie", Moovie Marvel
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300434
-#EXTINF: -1 group-title="Movie", MARVEL STUDIOS 1
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/41361
-#EXTINF: -1 group-title="Movie", MARVEL STUDIOS 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/41368
-#EXTINF: -1 group-title="Movie", MARVEL STUDIOS 3
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/174506
-#EXTINF: -1 group-title="Movie", MARVEL STUDIOS 4
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/174514
-#EXTINF: -1 group-title="Movie", FiberBox Aksiyon
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/537
-#EXTINF: -1 group-title="Movie", FiberBox Dram
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/543
-#EXTINF: -1 group-title="Movie", FiberBox Fantastik
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/544
-#EXTINF: -1 group-title="Movie", Fiberbox Fantastik
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300428
-#EXTINF: -1 group-title="Movie", FiberBox Komedi
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/546
-#EXTINF: -1 group-title="Movie", FiberBox Korku
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/547
-#EXTINF: -1 group-title="Movie", FiberBox Turk
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/548
-#EXTINF: -1 group-title="Movie", FiberBox Yesilcam
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300393
-#EXTINF: -1 group-title="Movie", Yesilcam
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/31169
-#EXTINF: -1 group-title="Movie", Fight box
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300392
-#EXTINF: -1 group-title="Movie", FiberBox Guneyt Arkin
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300379
-#EXTINF: -1 group-title="Movie", FiberBox Halit Akcatepe
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300399
-#EXTINF: -1 group-title="Movie", FiberBox Munir Ozkul
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300400
-#EXTINF: -1 group-title="Movie", FiberBox Sadri Alisik
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300402
-#EXTINF: -1 group-title="Movie", FiberBox Sener Sen
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300405
-#EXTINF: -1 group-title="Movie", FiberBox Tarik Akan
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300439
-#EXTINF: -1 group-title="Movie", Max Gold
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/163195
-#EXTINF: -1 group-title="Movie", Max Premier
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/163190
-#EXTINF: -1 group-title="Movie", Max Turk
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/163192
-#EXTINF: -1 group-title="Movie", Max Vizyon 1
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300083
-#EXTINF: -1 group-title="Movie", Max Vizyon 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/163201
-#EXTINF: -1 group-title="Movie", Max Vizyon 3
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/163191
-#EXTINF: -1 group-title="Movie", NetServer
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/163203
-#EXTINF: -1 group-title="Movie", TurkAsat KEMAL SUNAL
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300417
-#EXTINF: -1 group-title="Movie", 90 Plus
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/275953
-#EXTINF: -1 group-title="Movie", Cine 5
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297035
-#EXTINF: -1 group-title="Movie", ENO Turk
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/16857
-#EXTINF: -1 group-title="Movie", beIN Box Office 1
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/536
-#EXTINF: -1 group-title="Movie", beIN Box Office 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281863
-#EXTINF: -1 group-title="Movie", beIN Box Office 3
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/538
-#EXTINF: -1 group-title="Movie", beIN Box Office Turk
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/539
-#EXTINF: -1 group-title="Movie", beIN Movies Action
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1761
-#EXTINF: -1 group-title="Movie", beIN Movies Action 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/278527
-#EXTINF: -1 group-title="Movie", beIN Movies Family
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1763
-#EXTINF: -1 group-title="Movie", beIN Movies Premiere
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1764
-#EXTINF: -1 group-title="Movie", beIN Movies Premiere 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1765
-#EXTINF: -1 group-title="Movie", beIN Movies Stars
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1766
-#EXTINF: -1 group-title="Movie", beIN Movies Turk
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1767
-#EXTINF: -1 group-title="Movie", beIN Series 1
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298429
-#EXTINF: -1 group-title="Movie", beIN Series 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298427
-#EXTINF: -1 group-title="Movie", beIN Series 3
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298428
-#EXTINF: -1 group-title="Movie", beIN Series 4
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298430
-#EXTINF: -1 group-title="Movie", beIN Series Comedy
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1768
-#EXTINF: -1 group-title="Movie", beIN Series Drama
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1769
-#EXTINF: -1 group-title="Movie", DiziSmart Max
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/32147
-#EXTINF: -1 group-title="Movie", DiziSmart Premium
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/15714
-#EXTINF: -1 group-title="Movie", Moviesmart Classic
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1773
-#EXTINF: -1 group-title="Movie", Moviesmart Turk
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1780
-#EXTINF: -1 group-title="Movie", FilmBox
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/533
-#EXTINF: -1 group-title="Movie", FilmBox Action
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/192414
-#EXTINF: -1 group-title="Movie", FilmBox Family
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/192417
-#EXTINF: -1 group-title="Movie", Sinema TV
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1790
-#EXTINF: -1 group-title="Movie", Sinema 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1774
-#EXTINF: -1 group-title="Movie", Sinema 1001
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1789
-#EXTINF: -1 group-title="Movie", Sinema 1002
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/76722
-#EXTINF: -1 group-title="Movie", Sinema Aile
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1794
-#EXTINF: -1 group-title="Movie", Sinema Aile 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/165582
-#EXTINF: -1 group-title="Movie", Sinema Aksiyon
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1793
-#EXTINF: -1 group-title="Movie", Sinema Aksiyon 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1772
-#EXTINF: -1 group-title="Movie", Sinema Komedi
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1795
-#EXTINF: -1 group-title="Movie", Sinema Komedi 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/43541
-#EXTINF: -1 group-title="Movie", Sinema Yerli
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1791
-#EXTINF: -1 group-title="Movie", Sinema Yerli 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/163186
-#EXTINF: -1 group-title="Movie", Net Server 1
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/21003
-#EXTINF: -1 group-title="Movie", Net Server 2
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/32160
-#EXTINF: -1 group-title="Movie", Net Server 3
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/44348
-#EXTINF: -1 group-title="Movie", Net Server 4
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/39504
-#EXTINF: -1 group-title="Movie", Net Server 5
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/55155
-#EXTINF: -1 group-title="Movie", Sinemax Fear
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/568
-#EXTINF: -1 group-title="Movie", Sinemax Komedi
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/31187
-#EXTINF: -1 group-title="Movie", Sinevizyon
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/21010
-#EXTINF: -1 group-title="Movie", Sinevizyon
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/286868
+#EXTINF: -1 group-title="TR Turkey", TRT 1 1080P
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+#EXTINF: -1 group-title="TR Turkey", TEVE2 1080P
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", KANAL D 1080p
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", KANAL D 720p
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF: -1 group-title="TR Turkey", SHOW TV 1080p
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", ATV 720p
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF: -1 group-title="TR Turkey", SHOW TV 720p
+http://canli.haber365.com.tr/tr/showtv/index.m3u8
+#EXTINF: -1 group-title="TR Turkey", STAR TV 720p
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+#EXTINF: -1 group-title="TR Turkey", BEYAZ TV 1080p
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", KANAL 7 1080P
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", TV8 1080p
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+**********HABER**********
+#EXTINF: -1 group-title="TR Turkey", HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", HABER TURK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", CNN TURK
+https://teve2.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+*******TR*SPOR**********
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="TR Turkey", 3TR: NTVSPOR HD
+http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
+#EXTINF: -1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/TRT.SPOR.png" group-title="TR Turkey", TRT SPOR HD
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6392.m3u
+#EXTINF: -1 tvg-logo="http://11.somee.com/images/TRT.SPOR.png" group-title="TR Turkey", Trt Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF: -1 tvg-logo="http://11.somee.com/images/TRT.SPOR.png" group-title="TR Turkey", Trt Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,beIN MOVIES TURK HEVC
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/145701.m3u
@@ -683,8 +503,7 @@ http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/130652.m3u
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/130666.m3u
 #EXTINF:-1,TRANSFORMERS
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/130667.m3u
-#EXTINF:-1,SUPERMAN
-http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/132577.m3u
+
 #EXTINF:-1,JURASSIC WORLD
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/132101.m3u
 #EXTINF:-1,ALIEN
@@ -1437,486 +1256,6 @@ http://143951.iptvone.eu:80/ufukhalis/ndl62532144/228
 http://143951.iptvone.eu:80/ufukhalis/ndl62532144/234447
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: Bein H&E" tvg-logo="" group-title="TR-BELGESEL",TR: Bein H&E
 http://143951.iptvone.eu:80/ufukhalis/ndl62532144/235023
-
-**********Belgesel*********
-
-#EXTINF: -1 group-title="Movie", Special Box
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300414
-#EXTINF: -1 group-title="Belgesel", DOCUMAX
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1278/index.m3u8
-#EXTINF: -1 group-title="Belgesel", DOCUBOX
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4449.ts
-#EXTINF: -1 group-title="Belgesel", History Channel
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1801
-#EXTINF: -1 group-title="Belgesel", Viasat Explore
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/197561
-#EXTINF: -1 group-title="Belgesel", Viasat History
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4485.ts
-#EXTINF: -1 group-title="Belgesel", Viasat History
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/32589
-#EXTINF: -1 group-title="Belgesel", VIASAT HISTORY
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4464.ts
-#EXTINF: -1 group-title="Belgesel", BBC Earth
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8238
-#EXTINF: -1 group-title="Belgesel", beIN Iz
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1806
-#EXTINF: -1 group-title="Belgesel", Tarih TV
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300437
-#EXTINF: -1 group-title="Belgesel", Habitat
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300398
-#EXTINF: -1 group-title="Belgesel", NAT GEO HD
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4480.ts
-#EXTINF: -1 group-title="Belgesel", NAT GEO
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/278566
-#EXTINF: -1 group-title="Belgesel", NAT GEO WILD HD
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4481.ts
-#EXTINF: -1 group-title="Belgesel", NAT GEO Wild
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/838
-#EXTINF: -1 group-title="Belgesel", NATURE ESCAPE
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4482.ts
-#EXTINF: -1 group-title="Belgesel", TR: DISCOVERY CHANNEL HD
-https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
-#EXTINF: -1 group-title="Belgesel", DISCOVERY CHANNEL
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4468.ts
-#EXTINF: -1 group-title="Belgesel", TR: DISCOVERY SCIENCE HD
-https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/playlist.m3u8
-#EXTINF: -1 group-title="Belgesel", DISCOVERY SCIENCE
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4469.ts
-#EXTINF: -1 group-title="Belgesel", Discovery Science
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/5693
-#EXTINF: -1 group-title="Belgesel", TR: DISCOVERY ID
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
-#EXTINF: -1 group-title="Belgesel", Discovery World
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8236
-#EXTINF: -1 group-title="Belgesel", Investigation Discovery
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8237
-#EXTINF: -1 group-title="Belgesel", Science & Vie TV
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/32593
-#EXTINF: -1 group-title="Belgesel", LOVE NATURE
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4477.ts
-#EXTINF: -1 group-title="Belgesel", Love Nature
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/837
-#EXTINF: -1 group-title="Belgesel", OUTDOOR
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4484.ts
-#EXTINF: -1 group-title="Belgesel", 24 KITCHEN HD
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4465.ts
-#EXTINF: -1 group-title="Belgesel", 24 Kitchen
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1808
-#EXTINF: -1 group-title="Belgesel", beIN Gurme
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1807
-#EXTINF: -1 group-title="Belgesel", ANIMAUX
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/32592
-#EXTINF: -1 group-title="Belgesel", Chasse & Peche
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/21246
-#EXTINF: -1 group-title="Belgesel", CLC TV
-https://clcmediatv.ozelip.com:3192/stream/play.m3u8
-#EXTINF: -1 group-title="Belgesel", DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF: -1 group-title="Belgesel", DMAX HD
-https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
-#EXTINF: -1 group-title="Belgesel", DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF: -1 group-title="Belgesel", TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF: -1 group-title="Belgesel", TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF: -1 group-title="Belgesel", TR: TLC TV
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
-#EXTINF: -1 group-title="Belgesel", TR: TRT Belgesel HD
-https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
-#EXTINF: -1 group-title="Belgesel", TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 group-title="Belgesel", TRT BELGESEL
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/159/index.m3u8
-#EXTINF: -1 group-title="Belgesel", TGRT BELGESEL
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/266/index.m3u8
-#EXTINF: -1 group-title="Belgesel", ÇİFTÇİ TV
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1293/index.m3u8
-
-#EXTINF: -1 group-title="Çocuk", Max Animasyon
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300089
-#EXTINF: -1 group-title="Çocuk", DA VINCI LEARNING
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4448.ts
-#EXTINF: -1 group-title="Çocuk", DISNEY JUNIOR
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4470.ts
-#EXTINF: -1 group-title="Çocuk", Disney Junior
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/633
-#EXTINF: -1 group-title="Çocuk", BABY TV
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4466.ts
-#EXTINF: -1 group-title="Çocuk", Baby TV
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/634
-#EXTINF: -1 group-title="Çocuk", Cartoonito
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300424
-#EXTINF: -1 group-title="Çocuk", Nicktoons
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300472
-#EXTINF: -1 group-title="Çocuk", Sünger Bob
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300953
-#EXTINF: -1 group-title="Çocuk", CBeebies
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1844
-#EXTINF: -1 group-title="Çocuk", Moonbug Kids
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299967
-#EXTINF: -1 group-title="Çocuk", Nick Junior
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/675
-#EXTINF: -1 group-title="Çocuk", SL Niloya
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/70743
-#EXTINF: -1 group-title="Çocuk", BOOMERANG HD
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4467.ts
-#EXTINF: -1 group-title="Çocuk", Da Vinci
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1850
-#EXTINF: -1 group-title="Çocuk", nickelodeon
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/278469
-#EXTINF: -1 group-title="Çocuk", Caillou
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/192581
-#EXTINF: -1 group-title="Çocuk", ÇOCUKSMART
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4489.ts
-#EXTINF: -1 group-title="Çocuk", Çocuk Smart
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1851
-#EXTINF: -1 group-title="Çocuk", TRT ÇOCUK
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/89/index.m3u8
-#EXTINF: -1 group-title="Çocuk", Cartoon Network
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8261
-#EXTINF: -1 group-title="Çocuk", Minika Cocuk
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/671
-#EXTINF: -1 group-title="Çocuk", Minika Go
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/662
-#EXTINF: -1 group-title="Çocuk", TRT ÇOCUK HD
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 group-title="Çocuk", TRT Cocuk
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/629
-#EXTINF: -1 group-title="Çocuk", TRT ÇOCUK HD
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 group-title="Çocuk", DIYANET COCUK
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF: -1 group-title="Ulusal", TRT 1 HD
-https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
-#EXTINF: -1 group-title="Ulusal", TRT 1 HD
-https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
-#EXTINF: -1 group-title="Ulusal", TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 group-title="Ulusal", TRT 1 HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/5/index.m3u8
-#EXTINF: -1 group-title="Ulusal", TRT 2 HD
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 group-title="Ulusal", TRT TURK HD
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 group-title="Ulusal", SHOW TV HD
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF: -1 group-title="Ulusal", SHOW TV HD
-https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
-#EXTINF: -1 group-title="Ulusal", SHOW TV HD
-https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
-#EXTINF: -1 group-title="Ulusal", SHOW TV HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/11/index.m3u8
-#EXTINF: -1 group-title="Ulusal", SHOW TURK
-http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/278466
-
-#EXTINF: -1 group-title="Ulusal", KANAL D HD
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF: -1 group-title="Ulusal", KANAL D HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/17/index.m3u8
-#EXTINF: -1 group-title="Ulusal", KANAL D HD
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF: -1 group-title="Ulusal", STAR TV HD
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
-#EXTINF: -1 group-title="Ulusal", STAR TV HD
-http://canli.haber365.com.tr/tr/startv/index.m3u8
-#EXTINF: -1 group-title="Ulusal", STAR TV HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/14/index.m3u8
-#EXTINF: -1 group-title="Ulusal", ATV HD
-http://116.202.238.88/ATV_TR/index.m3u8
-#EXTINF: -1 group-title="Ulusal", ATV HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
-#EXTINF: -1 group-title="Ulusal", TV 8 HD
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=tv8_web
-#EXTINF: -1 group-title="Ulusal", TV8 HD
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF: -1 group-title="Ulusal", TV8 HD
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
-#EXTINF: -1 group-title="Ulusal", TV8.5 HD
-https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
-#EXTINF: -1 group-title="Ulusal", TV 8.5 HD
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
-#EXTINF: -1 group-title="Ulusal", BEYAZ TV HD
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF: -1 group-title="Ulusal", FOX TV HD
-https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
-#EXTINF: -1 group-title="Ulusal", FOX TV HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/20/index.m3u8
-#EXTINF: -1 group-title="Ulusal", BEYAZ TV HD
-https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
-#EXTINF: -1 group-title="Ulusal", BEYAZ HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/31/index.m3u8
-#EXTINF: -1 group-title="Ulusal", TEVE2 HD
-https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF: -1 group-title="Ulusal", TV2 HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/34/index.m3u8
-#EXTINF: -1 group-title="Ulusal", A2 HD
-http://85.187.218.190:16002/play/a0f1/index.m3u8
-#EXTINF: -1 group-title="Ulusal", TV4 HD
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF: -1 group-title="Ulusal", TV4 HD
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF: -1 group-title="Ulusal", 360 HD
-https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
-#EXTINF: -1 group-title="Ulusal", 360TV HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/37/index.m3u8
-#EXTINF: -1 group-title="Ulusal", KANAL 7 HD
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF: -1 group-title="Ulusal", KANAL 7 HD
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
-#EXTINF: -1 group-title="Ulusal", KANAL 7 AVRUPA
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF: -1 group-title="Ulusal", SHOW TÜRK
-https://showturk.blutv.com/blutv_showturk2/live.m3u8
-
-#EXTINF: -1 group-title="Ulusal", KANAL AVRUPA FHD
-https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
-#EXTINF: -1 group-title="Ulusal", TÜRKMENELİ
-https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
-#EXTINF: -1 group-title="Ulusal", MC EU TV HD
-https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF: -1 group-title="Ulusal", BRT 1 KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
-#EXTINF: -1 group-title="Ulusal", BRT 2 KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
-#EXTINF: -1 group-title="Ulusal", BLOOMBRRG TV HD
-https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF: -1 group-title="Ulusal", AKIT TV HD
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF: -1 group-title="Haber", TR: KRT TV HD
-https://krtdvr.blutv.com/blutv_krt_live_dvr/live.m3u8
-#EXTINF: -1 group-title="Haber", TR: TELE 1 HD
-https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
-#EXTINF: -1 group-title="Haber", HALK TV HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/68/index.m3u8
-#EXTINF: -1 group-title="Haber", FLASH HABER HD
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF: -1 group-title="Haber", FLASH HABERHD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/48/index.m3u8
-#EXTINF: -1 group-title="Haber", HABER TURK HD
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
-#EXTINF: -1 group-title="Haber", HABER TURK HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/54/index.m3u8
-#EXTINF: -1 group-title="Haber", NTV HD
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF: -1 group-title="Haber", NtTV HD
-https://canli.haber365.com.tr/tr/ntv/index.m3u8
-#EXTINF: -1 group-title="Haber", NTV HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/60/index.m3u8
-#EXTINF: -1 group-title="Haber", CNN TURK HD
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF: -1 group-title="Haber", CNN TURK HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/62/index.m3u8
-#EXTINF: -1 group-title="Haber", TRT HABER HD
-https://trthaberdvr.blutv.com/blutv_trthaber_dvr2/live.m3u8
-#EXTINF: -1 group-title="Haber", TRT HABER HD
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 group-title="Haber", TRT HABER HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/65/index.m3u8
-#EXTINF: -1 group-title="Haber", HALK TV HD
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF: -1 group-title="Haber", HALK TV HD
-https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
-#EXTINF: -1 group-title="Haber", TELE 1 HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/70/index.m3u8
-#EXTINF: -1 group-title="Haber", ULUSAL HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/85/index.m3u8
-#EXTINF: -1 group-title="Haber", SOZCU TV HD
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
-#EXTINF: -1 group-title="Haber", TV 100 HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/79/index.m3u8
-#EXTINF: -1 group-title="Haber", TGRT HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/83/index.m3u8
-#EXTINF: -1 group-title="Haber", SKY HABER TV HD
-https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
-#EXTINF: -1 group-title="Haber", A HABER HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
-#EXTINF: -1 group-title="Haber", A HABER HD
-http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
-#EXTINF: -1 group-title="Haber", HABER TURK HD
-https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
-#EXTINF: -1 group-title="Haber", HABER TURK HD
-https://canli.haber365.com.tr/tr/haberturk/index.m3u8
-#EXTINF: -1 group-title="Haber", GLOBAL HABER HD
-https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
-#EXTINF: -1 group-title="Haber", KANAL 24  HD
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF: -1 group-title="Haber", KANAL 24 HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/75/index.m3u8
-#EXTINF: -1 group-title="Haber", KANAL 24 HD
-https://kanal24dvr.blutv.com/blutv_kanal24_dvr/live.m3u8
-#EXTINF: -1 group-title="Haber", TV 100 HD
-https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8
-#EXTINF: -1 group-title="Haber", TR: TGRT HABER HD
-https://tgrthaberdvr.blutv.com/blutv_tgrthaber2_dvr/live.m3u8
-#EXTINF: -1 group-title="Haber", Tgrthaber HD
-https://canli.haber365.com.tr/tr/tgrthaber/index.m3u8
-#EXTINF: -1 group-title="Haber", TV NET HD
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF: -1 group-title="Haber", Tvnet HD
-https://canli.haber365.com.tr/tr/tvnet/index.m3u8
-#EXTINF: -1 group-title="Haber", Bloomberght HD
-https://canli.haber365.com.tr/tr/bloomberght/index.m3u8
-#EXTINF: -1 group-title="Haber", BLOOMBERG HT HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/58/index.m3u8
-#EXTINF: -1 group-title="Haber", TR: Bloomberg HT HD
-https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
-#EXTINF: -1 group-title="Haber", BENGUTURK HD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/84/index.m3u8
-#EXTINF: -1 group-title="Haber", Benguturk HD
-https://canli.haber365.com.tr/tr/benguturk/index.m3u8
-
-***************SPOR*TV*********************
-#EXTINF: -1 group-title="Spor", Bein SPOR Haber HD
-https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
-#EXTINF: -1 group-title="Spor", Bein SPOR Haber FHD
-https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
-#EXTINF: -1 group-title="Spor", beIN SPORTS 1 HD
-https://jyayintv88.live/cdn/bein_sports_1_hd/main.m3u8
-#EXTINF: -1 group-title="Spor", beIN SPORTS 1 HD+
-https://jyayintv90.live/cdn/bein_sports_1_hd/main.m3u8
-#EXTINF: -1 group-title="Spor", beIN SPORTS 1 HD++
-https://jyayintv91.live/cdn/bein_sports_1_hd/main.m3u8
-#EXTINF: -1 group-title="Spor", beIN SPORTS 1 HD+++
-https://jyayintv92.live/cdn/bein_sports_1_hd/main.m3u8
-#EXTINF: -1 group-title="Spor", beIN SPORTS 1 FHD
-https://proxy.linkeddatafragments.org/https://cakal.click/yayinzirve.m3u8
-#EXTINF: -1 group-title="Spor", beIN SPORTS 1 UHD
-https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
-#EXTINF: -1 group-title="Spor", beIN SPORTS 1 (İnat TV)
-https://corsproxy.org/?https://cakal.click/yayininat.m3u8
-#EXTINF: -1 group-title="Spor", beIN SPORTS 1 (Goals Tv)
-https://corsproxy.org/?https://cakal.click/yayin1.m3u8
-#EXTINF: -1 group-title="Spor", beinSports 2
-https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
-#EXTINF: -1 group-title="Spor", beinSports 3
-https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
-#EXTINF: -1 group-title="Spor", beinSports 4
-https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
-#EXTINF: -1 group-title="Spor", beinSports 5
-https://corsproxy.org/?https://cakal.click/yayinb5.m3u8
-#EXTINF: -1 group-title="Spor", beinmax 1
-https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
-#EXTINF: -1 group-title="Spor", beinmax 2
-https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
-#EXTINF: -1 group-title="Spor", NTV Spor
-http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
-#EXTINF: -1 group-title="Spor", S SPORT
-https://corsproxy.org/?https://cakal.click/yayinss.m3u8
-#EXTINF: -1 group-title="Spor", S SPORT 2
-https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
-#EXTINF: -1 group-title="Spor", SPORSMART 1
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4487.ts
-#EXTINF: -1 group-title="Spor", SPORSMART 2
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4488.ts
-#EXTINF: -1 group-title="Spor", tivibuSpor
-https://ecanlitv3.etvserver.com/tvbu.m3u8?tkn=ddVHffxKMKMXVdXJhXSa0w&tms=1701689415
-#EXTINF: -1 group-title="Spor", tivibu 1
-https://corsproxy.org/?https://cakal.click/yayint1.m3u8
-#EXTINF: -1 group-title="Spor", tivibu 2
-https://corsproxy.org/?https://cakal.click/yayint2.m3u8
-#EXTINF: -1 group-title="Spor", tivibu 3
-https://corsproxy.org/?https://cakal.click/yayint3.m3u8
-#EXTINF: -1 group-title="Spor", FİLSpor 1
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1400/index.m3u8
-#EXTINF: -1 group-title="Spor", FİLSpor 2
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1401/index.m3u8
-#EXTINF: -1 group-title="Spor", FİLSpor 3
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1402/index.m3u8
-#EXTINF: -1 group-title="Spor", FİLSpor 4
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1403/index.m3u8
-#EXTINF: -1 group-title="Spor", FİLSpor 5
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1404/index.m3u8
-#EXTINF: -1 group-title="Spor", FİLSpor 6
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1405/index.m3u8
-#EXTINF: -1 group-title="Spor", FIGHTBOX
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4450.ts
-#EXTINF: -1 group-title="Spor", NBA TV
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4483.ts
-#EXTINF: -1 group-title="Spor", TR: GS TV HD
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF: -1 group-title="Spor", FB TV
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/298/index.m3u8
-#EXTINF: -1 group-title="Spor", euroSport 1
-https://corsproxy.org/?https://cakal.click/yayineu1.m3u8
-#EXTINF: -1 group-title="Spor", euroSport 2
-https://corsproxy.org/?https://cakal.click/yayineu2.m3u8
-#EXTINF: -1 group-title="Spor", TR: EUROSPORT 1 HD+
-https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
-#EXTINF: -1 group-title="Spor", EUROSPORT 1
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4473.ts
-#EXTINF: -1 group-title="Spor", TR: EUROSPORT 1 HD+
-https://corsproxy.org/?https://cakal.click/yayineu1.m3u8
-#EXTINF: -1 group-title="Spor", TR: EUROSPORT 2 HD+
-https://corsproxy.org/?https://cakal.click/yayineu2.m3u8
-#EXTINF: -1 group-title="Spor", EUROSPORT 2
-http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4474.ts
-#EXTINF: -1 group-title="Spor", TR: EUROSPORT 2 HD+
-https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
-#EXTINF: -1 group-title="Spor", TR: A SPOR HD
-http://85.187.218.190:16002/play/a0ft/index.m3u8
-#EXTINF: -1 group-title="Spor", TR: TRT SPOR HD
-https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
-#EXTINF: -1 group-title="Spor", TR: TRT SPOR HD
-http://85.187.218.190:16002/play/a0g6/index.m3u8
-#EXTINF: -1 group-title="Spor", TR: A SPOR HD
-http://85.187.218.190:16002/play/a0fy/index.m3u8
-#EXTINF: -1 group-title="Exxen", EXXEN 1 (Maç zamanında aktif)
-https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
-#EXTINF: -1 group-title="Exxen", EXXEN 2 (Maç zamanında aktif)
-https://corsproxy.org/?https://cakal.click/yayinex2.m3u8
-#EXTINF: -1 group-title="Exxen", EXXEN 3 (Maç zamanında aktif)
-https://corsproxy.org/?https://cakal.click/yayinex3.m3u8
-#EXTINF: -1 group-title="Exxen", EXXEN 4 (Maç zamanında aktif)
-https://corsproxy.org/?https://cakal.click/yayinex4.m3u8
-#EXTINF: -1 group-title="Exxen", EXXEN 5 (Maç zamanında aktif)
-https://corsproxy.org/?https://cakal.click/yayinex6.m3u8
-#EXTINF: -1 group-title="Exxen", EXXEN 6 (Maç zamanında aktif)
-https://corsproxy.org/?https://cakal.click/yayinex7.m3u8
-
-*****************daioncdn.net********
-
-#EXTINF: -1 group-title="TR Turkey", TRT 1 1080P
-https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
-#EXTINF: -1 group-title="TR Turkey", TEVE2 1080P
-https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF: -1 group-title="TR Turkey", KANAL D 1080p
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF: -1 group-title="TR Turkey", KANAL D 720p
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
-#EXTINF: -1 group-title="TR Turkey", SHOW TV 1080p
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF: -1 group-title="TR Turkey", ATV 720p
-http://116.202.238.88/ATV_TR/index.m3u8
-#EXTINF: -1 group-title="TR Turkey", SHOW TV 720p
-http://canli.haber365.com.tr/tr/showtv/index.m3u8
-#EXTINF: -1 group-title="TR Turkey", STAR TV 720p
-http://canli.haber365.com.tr/tr/startv/index.m3u8
-#EXTINF: -1 group-title="TR Turkey", BEYAZ TV 1080p
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF: -1 group-title="TR Turkey", KANAL 7 1080P
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF: -1 group-title="TR Turkey", TV8 1080p
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-**********HABER**********
-#EXTINF: -1 group-title="TR Turkey", HALK TV
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF: -1 group-title="TR Turkey", HABER TURK
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
-#EXTINF: -1 group-title="TR Turkey", CNN TURK
-https://teve2.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-*******TR*SPOR**********
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="TR Turkey", 3TR: NTVSPOR HD
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
-#EXTINF: -1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/TRT.SPOR.png" group-title="TR Turkey", TRT SPOR HD
-http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6392.m3u
-#EXTINF: -1 tvg-logo="http://11.somee.com/images/TRT.SPOR.png" group-title="TR Turkey", Trt Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-logo="http://11.somee.com/images/TRT.SPOR.png" group-title="TR Turkey", Trt Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-
-
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL BELGESEL" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-BELGESEL",TR: UNIVERSAL BELGESEL
 http://143951.iptvone.eu:80/ufukhalis/ndl62532144/97172
 #EXTINF:0 user-agent="Firefox" tvg-id="National Geographic" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.multicms.info/tvlogo/natgeohd.png" group-title="TR-BELGESEL",TR: NATIONAL GEOGRAPHIC HD
@@ -2030,7 +1369,7 @@ http://143951.iptvone.eu:80/ufukhalis/ndl62532144/291
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: DAMAR TV" tvg-logo="http://logo.multicms.info/logoslar/damartv.jpg" group-title="TR-MUZIK",TR: DAMAR TV
 http://143951.iptvone.eu:80/ufukhalis/ndl62532144/41839
 
-*************NTV SPOR PAKETİ***YEREL********************
+*************NTV SPOR PAKETİ****MAÇTV*******************
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="TR➾ Full Liste",-1  , 1TR: NTVSPOR HD
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
@@ -2762,7 +2101,10 @@ http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/137138.m3u
 
 #EXTINF:-1,✦✦HABER ✦✦
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6318.m3u
-
+#EXTINF:-1,LIVE CAM 1  ➤ GAZZE - İSRAİL
+http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/139187.m3u
+#EXTINF:-1,LIVE CAM 2  ➤ GAZZE - İSRAİL
+http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/139189.m3u
 #EXTINF:-1,TR: TRT HABER FHD
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/111293.m3u
 #EXTINF:-1,TR: TRT HABER HD
@@ -2856,6 +2198,7 @@ http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6339.m3u
 #EXTINF:-1,TR: TH TÜRK HABER HD
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/135007.m3u
 
+
 #EXTINF:-1,TR: TRT 1 FHD
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6484.m3u
 #EXTINF:-1,TR: TRT 1 HD
@@ -2916,12 +2259,16 @@ http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6508.m3u
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6518.m3u
 #EXTINF:-1,TR: SHOW MAX
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6509.m3u
-
+#EXTINF:-1,TR: ATV AVRUPA
+http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6510.m3u
+#EXTINF:-1,TR: EURO STAR
+http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6511.m3u
 #EXTINF:-1,TR: EURO D
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6513.m3u
 #EXTINF:-1,TR: SHOW TURK
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6512.m3u
-
+#EXTINF:-1,TR: TV 8 INT
+http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6515.m3u
 #EXTINF:-1,TR: TV NET HD
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/6516.m3u
 #EXTINF:-1,TR: AKILLI TV
@@ -3428,7 +2775,7 @@ https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w486539089.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KASTAMONU TV  
-http://51.158.204.52:8080/live/kastamonutv/kastamonutv/3385.m3u8
+http://kastamonutv37.com:8080/kastamonutv37/kastamonutv37/37
 
 #EXTINF:0 type="stream" channelId="-1" group-title="BELGESEL_TV" logo="/YEREL_TV-logo-2.png",TV55
 https://cdn-tv55.yayin.com.tr/tv55/tv55/playlist.m3u8
@@ -3454,7 +2801,6 @@ arkadaşlar bu linki m3u8 e cevirebilirmiyiz https://kackartv.ozelip.com.tr:3898
 
 #EXTINF:0 type="stream" channelId="-1" group-title="HABER_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HABER ON
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8 
-
 ----KIBRIS TV LER-------------
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-KIBRIS _YAYINLARI" logo="/KIBRIS _YAYINLARI-logo-2.png",BRT1 TV
