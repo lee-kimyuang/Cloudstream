@@ -1,42 +1,19 @@
 ﻿#EXTM3U
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",BİZİM TEBER MEDYA TV1
-https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv1/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="png",BİZİM TEBER MEDYA Tv1 AVRUPA
+#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="png",BİZİM TEBER MEDYA Tv1 
 https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv1/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV2 EHLİBEYT
-https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv2/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TEBER MEDYA Tv2 AVRUPA
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv2/playlist.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV3 MÜZİK
-https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv3/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TEBER MEDYA Tv3 M.TV AVRUPA
+#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TEBER MEDYA Tv3 M.TV 
 https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv3/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TEBER MEDYA Tv4 çocuk
-https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv4/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TEBER MEDYA Tv4 çocuk AVRUPA
+#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TEBER MEDYA Tv4 çocuk 
 https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv4/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR TV
-https://rpn3.bozztv.com/ssh101/ssh101/Teber_star/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR TV AVRUPA
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR TV 
 https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Teber_star/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER BİZ ON TV
-https://rpn3.bozztv.com/ssh101/ssh101/Biz_on_tv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER BİZ ON AVRUPA
+#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER BİZ ON 
 https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Biz_on_tv/playlist.m3u8
-
 
 #EXTINF: -1 group-title="Sinema", TeleON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
@@ -49,9 +26,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA sinema TV AVRUPA
 https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SUPERMAN TV
-http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/132577.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",OTT SPORT TV
 https://rpn3.bozztv.com/ssh101/ssh101/Bizim_spor_tv/playlist.m3u8
@@ -101,13 +75,19 @@ https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
 http://new.cache-stream.workers.dev/stream/UCoIUysIrvGxoDw-GkdOGjRw/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.KOBİM TV
-http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
+https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1510233083.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",OSMAN ATASOY TV
+https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist_w551251138.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",WOMAN TV
 https://embedlp.becdn.net/womantv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GÖRELE TV
 https://goreletv.ozelip.com.tr:3843/hybrid/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ÜNİVERSİTE TV
+https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",G.İZ TV
 http://nrttn172.kesintisizyayin.com:29010/acitv/acitv/playlist.m3u8
@@ -326,7 +306,18 @@ http://77.68.121.3/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png,YANSIMA MÜZİK TV
 https://proxy.linkeddatafragments.org/https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 
-#EXTM3U 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",BİZİM TEBER MEDYA TV1
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV2 EHLİBEYT
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV3 MÜZİK
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TEBER MEDYA Tv4 çocuk
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR TV
+https://rpn3.bozztv.com/ssh101/ssh101/Teber_star/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER BİZ ON TV
+https://rpn3.bozztv.com/ssh101/ssh101/Biz_on_tv/playlist.m3u8
 
 #EXTINF: -1 group-title="TR Turkey", TRT 1 1080P
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
