@@ -1,0 +1,189 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="TR➾ Full Liste",-1  , 1TR: NTVSPOR HD
+http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f4525d90-5593-11ee-b36d-b5080db03173/5302233/934248662.jpeg" group-title="TR➾ Full Liste",-1  , 2TR: bSPORTS 1 HD
+http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f4525d90-5593-11ee-b36d-b5080db03173/5302233/934248663.jpeg" group-title="TR➾ Full Liste",-1  , 3TR: bSPORTS 2 HD
+http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" tvg-name="|TR| beIN Sports 1 SD [480p]" group-title="TR➾ Full Liste",-1    , |TR| beIN Sports 1 SD [480p]
+http://proxytv.xyz:8080/brk0273/brk.225/35762
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" tvg-name="|TR| beIN Sports 1 HD Türkiye" group-title="TR➾ Full Liste",-1    , |TR| beIN Sports 1 HD Türkiye
+http://proxytv.xyz:8080/brk0273/brk.225/98925
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" tvg-name="|TR| beIN Sports 1 VIP H265" group-title="TR➾ Full Liste",-1   , |TR| beIN Sports 1 VIP H265
+http://proxytv.xyz:8080/brk0273/brk.225/190072
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" tvg-name="|TR| beIN Sports 2 SD" group-title="TR➾ Full Liste",-1   , |TR| beIN Sports 2 SD
+http://proxytv.xyz:8080/brk0273/brk.225/196216
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" tvg-name="|TR| beIN Sports 2 HD" group-title="TR➾ Full Liste",-1    , |TR| beIN Sports 2 HD
+http://proxytv.xyz:8080/brk0273/brk.225/35730
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" tvg-name="|TR| beIN Sports 3 HD" group-title="TR➾ Full Liste",-1    , |TR| beIN Sports 3 HD
+http://proxytv.xyz:8080/brk0273/brk.225/6097
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Exxen.png" tvg-name="|TR| Exxen Spor 1 SD" group-title="TR➾ Full Liste",-1   , |TR| Exxen Spor 1 SD
+http://proxytv.xyz:8080/brk0273/brk.225/198062
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Exxen.png" tvg-name="|TR| Exxen Spor 1 HD" group-title="TR➾ Full Liste",-1   , |TR| Exxen Spor 1 HD
+http://proxytv.xyz:8080/brk0273/brk.225/167579
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Exxen.png" tvg-name="|TR| Exxen Spor 2 HD" group-title="TR➾ Full Liste",-1   , |TR| Exxen Spor 2 HD
+http://proxytv.xyz:8080/brk0273/brk.225/98878
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Exxen.png" tvg-name="|TR| Exxen Spor 3 HD" group-title="TR➾ Full Liste",-1   , |TR| Exxen Spor 3 HD
+http://proxytv.xyz:8080/brk0273/brk.225/98926
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Exxen.png" tvg-name="|TR| Exxen Spor 4 HD" group-title="TR➾ Full Liste",-1   , |TR| Exxen Spor 4 HD
+http://proxytv.xyz:8080/brk0273/brk.225/101132
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Exxen.png" tvg-name="|TR| Exxen Spor 5 HD" group-title="TR➾ Full Liste",-1   , |TR| Exxen Spor 5 HD
+http://proxytv.xyz:8080/brk0273/brk.225/101133
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Exxen.png" tvg-name="|TR| Exxen Spor 6 HD" group-title="TR➾ Full Liste",-1   , |TR| Exxen Spor 6 HD
+http://proxytv.xyz:8080/brk0273/brk.225/101134
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Exxen.png" tvg-name="|TR| Exxen Spor 7 HD" group-title="TR➾ Full Liste",-1   , |TR| Exxen Spor 7 HD
+http://proxytv.xyz:8080/brk0273/brk.225/101135
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Exxen.png" tvg-name="|TR| Exxen Spor 8 HD" group-title="TR➾ Full Liste",-1   , |TR| Exxen Spor 8 HD
+http://proxytv.xyz:8080/brk0273/brk.225/101137
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/spor_smart.png" tvg-name="|TR| Spor Smart 1 HD" group-title="TR➾ Full Liste",-1   , |TR| Spor Smart 1 HD
+http://proxytv.xyz:8080/brk0273/brk.225/121246
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/spor_smart.png" tvg-name="|TR| Spor Smart 2 HD" group-title="TR➾ Full Liste",-1   , |TR| Spor Smart 2 HD
+http://proxytv.xyz:8080/brk0273/brk.225/113272
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/eurosport1.png" tvg-name="|TR| D-Smart EuroSport 1" group-title="TR➾ Full Liste",-1   , |TR| D-Smart EuroSport 1
+http://proxytv.xyz:8080/brk0273/brk.225/6106
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/eurosport2.png" tvg-name="|TR| D-Smart EuroSport 2" group-title="TR➾ Full Liste",-1   , |TR| D-Smart EuroSport 2
+http://proxytv.xyz:8080/brk0273/brk.225/6107
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/s_sport.png" tvg-name="|TR| S Sport 1 HD" group-title="TR➾ Full Liste",-1   , |TR| S Sport 1 HD
+http://proxytv.xyz:8080/brk0273/brk.225/115598
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/s_spor_2.png" tvg-name="|TR| S Sport 2 HD" group-title="TR➾ Full Liste",-1   , |TR| S Sport 2 HD
+http://proxytv.xyz:8080/brk0273/brk.225/6105
+#EXTINF:-1 tvg-logo="http://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" tvg-name="|TR| S Sport+1 Mac Saati" group-title="TR➾ Full Liste",-1   , |TR| S Sport+1 Mac Saati
+http://proxytv.xyz:8080/brk0273/brk.225/137713
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_2.png" tvg-name="|TR| Tivibu Spor 1 FHD" group-title="TR➾ Full Liste",-1   , |TR| Tivibu Spor 1 FHD
+http://proxytv.xyz:8080/brk0273/brk.225/6102
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_3.png" tvg-name="|TR| Tivibu Spor 2 FHD" group-title="TR➾ Full Liste",-1   , |TR| Tivibu Spor 2 FHD
+http://proxytv.xyz:8080/brk0273/brk.225/6103
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_4.png" tvg-name="|TR| Tivibu Spor 3 FHD" group-title="TR➾ Full Liste",-1   , |TR| Tivibu Spor 3 FHD
+http://proxytv.xyz:8080/brk0273/brk.225/113254
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_spor.png" tvg-name="|TR| Trt Spor HD" group-title="TR➾ Full Liste",-1    , |TR| Trt Spor HD
+http://proxytv.xyz:8080/brk0273/brk.225/6109
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/nba_tv.png" tvg-name="|TR| Nba TV HD" group-title="TR➾ Full Liste",-1   , |TR| Nba TV HD
+http://proxytv.xyz:8080/brk0273/brk.225/6111
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_spor.png" tvg-name="|TR| A Spor HD" group-title="TR➾ Full Liste",-1    , |TR| A Spor HD
+http://proxytv.xyz:8080/brk0273/brk.225/6113
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/fb_tv.png" tvg-name="|TR| FB TV" group-title="TR➾ Full Liste",-1    , |TR| FB TV
+http://proxytv.xyz:8080/brk0273/brk.225/6114
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/gs_tv.png" tvg-name="|TR| GS TV" group-title="TR➾ Full Liste",-1    , |TR| GS TV
+http://proxytv.xyz:8080/brk0273/brk.225/6115
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tjk_tv.png" tvg-name="|TR| TJK TV HD" group-title="TR➾ Full Liste",-1   , |TR| TJK TV HD
+http://proxytv.xyz:8080/brk0273/brk.225/6116
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_1.png" tvg-name="|TR| Trt 1 HD" group-title="TR➾ Full Liste",-1    , |TR| Trt 1 HD
+http://proxytv.xyz:8080/brk0273/brk.225/20484
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/atv.png" tvg-name="|TR| Atv HD" group-title="TR➾ Full Liste",-1    , |TR| Atv HD
+http://proxytv.xyz:8080/brk0273/brk.225/6266
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" tvg-name="|TR| Kanal D HD" group-title="TR➾ Full Liste",-1    , |TR| Kanal D HD
+http://proxytv.xyz:8080/brk0273/brk.225/6275
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/fox.png" tvg-name="|TR| Fox Tv HD" group-title="TR➾ Full Liste",-1    , |TR| Fox Tv HD
+http://proxytv.xyz:8080/brk0273/brk.225/6276
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/star.png" tvg-name="|TR| Star Tv HD" group-title="TR➾ Full Liste",-1    , |TR| Star Tv HD
+http://proxytv.xyz:8080/brk0273/brk.225/6270
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/show.png" tvg-name="|TR| Show Tv HD" group-title="TR➾ Full Liste",-1    , |TR| Show Tv HD
+http://proxytv.xyz:8080/brk0273/brk.225/6273
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/beyaz.png" tvg-name="|TR| Beyaz TV HD" group-title="TR➾ Full Liste",-1    , |TR| Beyaz TV HD
+http://proxytv.xyz:8080/brk0273/brk.225/6277
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanal_7.png" tvg-name="|TR| Kanal 7 HD" group-title="TR➾ Full Liste",-1    , |TR| Kanal 7 HD
+http://proxytv.xyz:8080/brk0273/brk.225/6278
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="|TR| Tv 8 HD" group-title="TR➾ Full Liste",-1    , |TR| Tv 8 HD
+http://proxytv.xyz:8080/brk0273/brk.225/20742
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tv_8-5.png" tvg-name="|TR| Tv 8.5 HD" group-title="TR➾ Full Liste",-1    , |TR| Tv 8.5 HD
+http://proxytv.xyz:8080/brk0273/brk.225/6281
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/teve2.png" tvg-name="|TR| Teve 2 HD" group-title="TR➾ Full Liste",-1    , |TR| Teve 2 HD
+http://proxytv.xyz:8080/brk0273/brk.225/6279
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_2.png" tvg-name="|TR| A2 HD" group-title="TR➾ Full Liste",-1    , |TR| A2 HD
+http://proxytv.xyz:8080/brk0273/brk.225/6268
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/360.png" tvg-name="|TR| 360 TV HD" group-title="TR➾ Full Liste",-1    , |TR| 360 TV HD
+http://proxytv.xyz:8080/brk0273/brk.225/6272
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_haber.png" tvg-name="|TR| Trt Haber" group-title="TR➾ Full Liste",-1    , |TR| Trt Haber
+http://proxytv.xyz:8080/brk0273/brk.225/6208
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_haber.png" tvg-name="|TR| A Haber HD" group-title="TR➾ Full Liste",-1    , |TR| A Haber HD
+http://proxytv.xyz:8080/brk0273/brk.225/20768
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tgrt_haber.png" tvg-name="|TR| Tgrt Haber" group-title="TR➾ Full Liste",-1    , |TR| Tgrt Haber
+http://proxytv.xyz:8080/brk0273/brk.225/6209
+#EXTINF:-1 tvg-id="CNNTurk.us" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/cnn_turk.png" tvg-name="|TR| Cnn Türk HD" group-title="TR➾ Full Liste",-1    , |TR| Cnn Türk HD
+http://proxytv.xyz:8080/brk0273/brk.225/6210
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haberturk.png" tvg-name="|TR| Haber Türk" group-title="TR➾ Full Liste",-1    , |TR| Haber Türk
+http://proxytv.xyz:8080/brk0273/brk.225/6212
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" tvg-name="|TR| Sözcü SZC Tv" group-title="TR➾ Full Liste",-1   , |TR| Sözcü SZC Tv
+http://proxytv.xyz:8080/brk0273/brk.225/196229
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haber_global.png" tvg-name="|TR| Haber Global HD" group-title="TR➾ Full Liste",-1    , |TR| Haber Global HD
+http://proxytv.xyz:8080/brk0273/brk.225/6219
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/ntv_tr.png" tvg-name="|TR| Ntv Haber HD" group-title="TR➾ Full Liste",-1    , |TR| Ntv Haber HD
+http://proxytv.xyz:8080/brk0273/brk.225/101114
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/halk_tv.png" tvg-name="|TR| Halk TV" group-title="TR➾ Full Liste",-1    , |TR| Halk TV
+http://proxytv.xyz:8080/brk0273/brk.225/20758
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/krt_tr.png" tvg-name="|TR| Krt TV" group-title="TR➾ Full Liste",-1    , |TR| Krt TV
+http://proxytv.xyz:8080/brk0273/brk.225/101118
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/tele_1_tr.png" tvg-name="|TR| Tele 1" group-title="TR➾ Full Liste",-1    , |TR| Tele 1
+http://proxytv.xyz:8080/brk0273/brk.225/101115
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/aztv.png" tvg-name="|TR| Az Tv Haber [Azerbaycan]" group-title="TR➾ Full Liste",-1   , |TR| Az Tv Haber [Azerbaycan]
+http://proxytv.xyz:8080/brk0273/brk.225/197037
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/national_geo_wild.png" tvg-name="|TR| National Geographic Wild HD" group-title="TR➾ Full Liste",-1    , |TR| National Geographic Wild HD
+http://proxytv.xyz:8080/brk0273/brk.225/6287
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/discovery_channel.png" tvg-name="|TR| Discovery Channel HD" group-title="TR➾ Full Liste",-1    , |TR| Discovery Channel HD
+http://proxytv.xyz:8080/brk0273/brk.225/6289
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tvlogo/maxlovetv.png" tvg-name="|TR| Max Love TV HD" group-title="TR➾ Full Liste",-1   , |TR| Max Love TV HD
+http://proxytv.xyz:8080/brk0273/brk.225/192797
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bbc_earth.png" tvg-name="|TR| Bbc Earth HD" group-title="TR➾ Full Liste",-1    , |TR| Bbc Earth HD
+http://proxytv.xyz:8080/brk0273/brk.225/6294
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/history_channel.png" tvg-name="|TR| History HD" group-title="TR➾ Full Liste",-1    , |TR| History HD
+http://proxytv.xyz:8080/brk0273/brk.225/12822
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tvlogo/Viasat_History-2014.png" tvg-name="|TR| Viasat History HD" group-title="TR➾ Full Liste",-1   , |TR| Viasat History HD
+http://proxytv.xyz:8080/brk0273/brk.225/110174
+#EXTINF:-1 tvg-id="DMAXTurkiye.us" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/dmax.png" tvg-name="|TR| Dmax HD" group-title="TR➾ Full Liste",-1    , |TR| Dmax HD
+http://proxytv.xyz:8080/brk0273/brk.225/6296
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_belgesel.png" tvg-name="|TR| TRT Belgesel HD" group-title="TR➾ Full Liste",-1    , |TR| TRT Belgesel HD
+http://proxytv.xyz:8080/brk0273/brk.225/13286
+#EXTINF:-1 tvg-id="24KitchenTurkey.us" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tlc.png" tvg-name="|TR| Tlc TV HD" group-title="TR➾ Full Liste",-1    , |TR| Tlc TV HD
+http://proxytv.xyz:8080/brk0273/brk.225/35593
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_cocuk.png" tvg-name="|TR| TRT Çocuk HD" group-title="TR➾ Full Liste",-1    , |TR| TRT Çocuk HD
+http://proxytv.xyz:8080/brk0273/brk.225/48856
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Minika_go_old.png" tvg-name="|TR| Minika Go HD" group-title="TR➾ Full Liste",-1    , |TR| Minika Go HD
+http://proxytv.xyz:8080/brk0273/brk.225/6244
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" tvg-name="|TR| Minika Çocuk HD" group-title="TR➾ Full Liste",-1    , |TR| Minika Çocuk HD
+http://proxytv.xyz:8080/brk0273/brk.225/6247
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxniloyatv.png" tvg-name="|TR| Nickelodeon HD" group-title="TR➾ Full Liste",-1   , |TR| Nickelodeon HD
+http://proxytv.xyz:8080/brk0273/brk.225/6242
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/Disney_Junior_logosu.png" tvg-name="|TR| Disney Junior HD" group-title="TR➾ Full Liste",-1   , |TR| Disney Junior HD
+http://proxytv.xyz:8080/brk0273/brk.225/6236
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cartoon_Network_2010_logo_variant.png/1200px-Cartoon_Network_2010_logo_variant.png" tvg-name="|TR| Cartoon Network HD" group-title="TR➾ Full Liste",-1    , |TR| Cartoon Network HD
+http://proxytv.xyz:8080/brk0273/brk.225/6234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" tvg-name="|TR| Boomerang TV HD" group-title="TR➾ Full Liste",-1   , |TR| Boomerang TV HD
+http://proxytv.xyz:8080/brk0273/brk.225/6243
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" tvg-name="|TR| Max Yerli Sinema TV 1 HD" group-title="TR➾ Full Liste",-1   , |TR| Max Yerli Sinema TV 1 HD
+http://proxytv.xyz:8080/brk0273/brk.225/195049
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" tvg-name="|TR| Max Yerli Sinema TV 2 HD" group-title="TR➾ Full Liste",-1   , |TR| Max Yerli Sinema TV 2 HD
+http://proxytv.xyz:8080/brk0273/brk.225/195050
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" tvg-name="|TR| Max Sinema TV 1 HD" group-title="TR➾ Full Liste",-1   , |TR| Max Sinema TV 1 HD
+http://proxytv.xyz:8080/brk0273/brk.225/188040
+#EXTINF:-1 tvg-logo="https://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" tvg-name="|TR| Max Sinema TV 2 HD" group-title="TR➾ Full Liste",-1   , |TR| Max Sinema TV 2 HD
+http://proxytv.xyz:8080/brk0273/brk.225/188041
+#EXTINF:-1 tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" tvg-name="TR: Cine Box TV 1 HD" group-title="TR➾ Full Liste",-1   , TR: Cine Box TV 1 HD
+http://proxytv.xyz:8080/brk0273/brk.225/170451
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_premium.png" tvg-name="|TR| Moviesmart Premium 1" group-title="TR➾ Full Liste",-1   , |TR| Moviesmart Premium 1
+http://proxytv.xyz:8080/brk0273/brk.225/6183
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_premium_2.png" tvg-name="|TR| Moviesmart Premium 2" group-title="TR➾ Full Liste",-1   , |TR| Moviesmart Premium 2
+http://proxytv.xyz:8080/brk0273/brk.225/6182
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_platin_2.png" tvg-name="|TR| Moviesmart Platin Hd" group-title="TR➾ Full Liste",-1   , |TR| Moviesmart Platin Hd
+http://proxytv.xyz:8080/brk0273/brk.225/6184
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_family.png" tvg-name="|TR| Moviesmart Family" group-title="TR➾ Full Liste",-1   , |TR| Moviesmart Family
+http://proxytv.xyz:8080/brk0273/brk.225/6188
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_action.png" tvg-name="|TR| Moviesmart Action" group-title="TR➾ Full Liste",-1   , |TR| Moviesmart Action
+http://proxytv.xyz:8080/brk0273/brk.225/6190
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvhd.png" tvg-name="|TR| Sinema TV 1 HD" group-title="TR➾ Full Liste",-1   , |TR| Sinema TV 1 HD
+http://proxytv.xyz:8080/brk0273/brk.225/113291
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvhd.png" tvg-name="|TR| Sinema TV 2 HD" group-title="TR➾ Full Liste",-1   , |TR| Sinema TV 2 HD
+http://proxytv.xyz:8080/brk0273/brk.225/123920
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaksiyon.png" tvg-name="|TR| Sinema TV Aksiyon 1" group-title="TR➾ Full Liste",-1   , |TR| Sinema TV Aksiyon 1
+http://proxytv.xyz:8080/brk0273/brk.225/113293
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/Sinema-Aksiyon-2.png" tvg-name="|TR| Sinema TV Aksiyon 2" group-title="TR➾ Full Liste",-1   , |TR| Sinema TV Aksiyon 2
+http://proxytv.xyz:8080/brk0273/brk.225/113557
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaile.png" tvg-name="|TR| Sinema TV Aile" group-title="TR➾ Full Liste",-1   , |TR| Sinema TV Aile
+http://proxytv.xyz:8080/brk0273/brk.225/123923
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvkomedi.png" tvg-name="|TR| Sinema TV Komedi" group-title="TR➾ Full Liste",-1   , |TR| Sinema TV Komedi
+http://proxytv.xyz:8080/brk0273/brk.225/123924
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvyerli.png" tvg-name="|TR| Sinema TV Yerli" group-title="TR➾ Full Liste",-1   , |TR| Sinema TV Yerli
+http://proxytv.xyz:8080/brk0273/brk.225/123925
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Kemal Sunal TV 1" group-title="TR➾ Full Liste",-1   , |TR| Kemal Sunal TV 1
+http://proxytv.xyz:8080/brk0273/brk.225/6325
+#EXTINF:-1 tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Şener Şen TV" group-title="TR➾ Full Liste",-1   , |TR| Şener Şen TV
+http://proxytv.xyz:8080/brk0273/brk.225/23578

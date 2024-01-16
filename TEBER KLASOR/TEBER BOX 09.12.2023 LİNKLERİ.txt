@@ -1,14 +1,14 @@
 ------NOWA LİNK-----------
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEBER STAR1 AXİON
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEBER STAR
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEBER STAR2 EHLİBEYT
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEBER MEDYA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR3 KRAL
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER MÜZİK
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER ON TV 4
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER ON
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
 
 ------NOWA LİNK---url--------
@@ -16,6 +16,13 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3
 ABONE LİNGİ
 rtmp://live-nyc.vaughnsoft.net/live
 live_aFMszd_CRuhEG
+
+rtmp://live-iad.vaughnsoft.net/live
+key:live_lJqZSL_jJeBX2
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TEBER EHLİBEYT
+https://stream-cdn-iad.vaughnsoft.net/play/live_huseyincevik.flv
+
 
 TEBER STAR1 gmail
 huseyincuruk418@gmail.com
@@ -63,129 +70,37 @@ KEYİ:demir
 TEBER ON yayın linki
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
 
----------looch.tv-------------
-
-TÜMÜNÜN LİNGİ ANA KAYNAK
-TEBER STAR
-ANAHDAR:rtmp://ingest.looch.tv/live
-KEY:0c5f4e06-74f8-544b-ac61-191ab84a18ef
-
-TEBER ON
-ANAHDAR:rtmp://ingest.looch.tv/live
-KEY:7f113fdd-c4a6-59eb-8dc5-d0dccb2383c9
-
-TEBER HBB
-ANAHDAR:rtmp://ingest.looch.tv/live
-KEY:e6a668d7-0165-5bbe-8afc-04490936c8c7
-
---------------2023------------------
 
 
-----ssh101---TEBER TV 2023 YENİ ADRESLERİ--------------
-TEBER TV 2023<YENİ ADRESLERİ
-rtmp://ssh101.bozztv.com:1935/ssh101 Yayın adı: teberstar1
+----ssh101-TEBER TV 2023 YENİ ADRESLER---
 
+----------key ve anahdarlar--------------
+https://ssh101.bozztv.com/ssh101/Teber_Ehlibeyt/chunks.m3u8
+rtmp://ssh101.bozztv.com:1935/ssh101 Yayın adı:Teber_Ehlibeyt 
 rtmp://ssh101.bozztv.com:1935/ssh101 Yayın adı: teberstar2
 
 rtmp://ssh101.bozztv.com:1935/ssh101 Yayın adı: teberstar3
+
+rtmp://ssh101.bozztv.com:1935/ssh101 Yayın adı: teberstar4
 
 rtmp://ssh101.bozztv.com:1935/ssh101 Yayın adı: teber_on
 
 TEBER TV 2023 YENİ ADRESLERİ VE OYNATMALİNGLERİ
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEBER STAR1 AXİON
-https://ssh101.bozztv.com/ssh101/teberstar1/chunks.m3u8
+------ssh101---oynatıcı linkler---------------
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR2 EHLİBEYT
-https://ssh101.bozztv.com/ssh101/teberstar2/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEBER STAR1 
+https://rpn3.bozztv.com/ssh101/ssh101/teberstar1/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR3 KRAL TV
-https://ssh101.bozztv.com/ssh101/teberstar3/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR2 
+https://rpn3.bozztv.com/ssh101/ssh101/teberstar2/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR3
+https://rpn3.bozztv.com/ssh101/ssh101/teberstar3/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR4
+https://rpn3.bozztv.com/ssh101/ssh101/teberstar4/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER ON
-https://ssh101.bozztv.com/ssh101/teber_on/chunks.m3u8
-
-----------------------------splitstream.io--------------------------------------------------------
-
---------TEBER STAR------splitstream.io-------------------------------------
-#EXTINF:0, TEBER STAR1 LİNK1 OYNATMA
-https://live-server-2.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-
-------TEBER STAR---------------ANAHDAR-------------------------
-
-NAME; TEBER STAR1 LİNK1 ANAHDAR
-RTMP SERVER;rtmp://live-server-2.splitstream.io/static
-ANAHDAR  KEY;
-2eb3728e-cbaa-4af6-a51f-40dc6b580431
-
---------------TEBER ON-----------------------------------------------
-
-
-#EXTINF:0,TEBER ON OYNATMA
-https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
-
------TEBER ON ---------ANAHDAR--------------------------------------
-
-NAME; TEBER ON  ANAHDAR
-RTMP SERVER;rtmp://live-server-2.splitstream.io/static
-ANAHDAR  KEY;f97854bd-6c00-40d3-b9a2-e85f95a4f94f
-
------------NAME;TEBER HBB-----------------------------------------------
-NAME;TEBER TEZENE
-#EXTINF:0 type="stream" channelId="-1" group="TBRT_iPTV_KANALLAR", TEBER HBB
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-
--TEBER HBB-----------ANAHDAR----------------
-
-RTMP SERVER;rtmp://live-server-2.splitstream.io/static
-ANAHDAR:  KEY;0c5cf555-a6cb-4559-8450-cd08b99803af
-
----TEBER DEM----------------------------------------
-
-TEBER DEM
-https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d
-/tracks-v1a1/mono.m3u8
-
-TEBER DEM
-RTMP SERVER;rtmp://live-server-2.splitstream.io/static
-ANAHDAR  KEY;3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d
-
----TEBER STAR4--------BELGESEL--------------------------------
-
-
-NAME;TEBER STAR4 İMEİL LİNGİ
-RTMP SERVER;rtmp://live-server-2.splitstream.io/static
-ANAHDAR  KEY;2ae3bf08-20eb-4dcb-83ea-38d1088180e7
-
-satılmış TEBER STAR4
-#EXTINF:0 type="stream" channelId="-1" group="HÇRT_iPTV_KANALLAR",TEBER  TV
-https://live-server-2.splitstream.io/2ae3bf08-20eb-4dcb-83ea-38d1088180e7
-/tracks-v1a1/mono.m3u8
-
-
--------------TEBER STAR5 EĞLENCE---LİNGİ-------------
-
-NAME; TEBER STAR5 ANAHDAR
-
-ANAHDAR:
-rtmp://live-server-2.splitstream.io/static
-KEY:34e279a9-6153-4e38-b25e-7cfe9f7abee5
-
-#EXTINF:0,TEBER STAR5 OYNATMA
-
-TEBER STAR5
-#EXTINF:0 type="stream" channelId="-1" group="HÇRT_iPTV_KANALLAR",TEBER ON TV
-https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5
-/tracks-v1a1/mono.m3u8
-
-
-------------------TEBER STAR7-------BOŞ---------------------------
-
-NAME;TEBER STAR3 OYNATMA: #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title= "Özel",TEBER STAR3 
-https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
-------------------TEBER STAR-------BOŞ--------------------------------
-RTMP SERVER:rtmp://live-server-2.splitstream.io/static
-
-ANAHDAR:fe992241-c5b5-464d-a0b6-b9aa254d5ff6
-
+https://rpn3.bozztv.com/ssh101/ssh101/teber_on/playlist.m3u8
 
