@@ -18,10 +18,10 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBERCOCUK/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER MÜZİK
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_MUZIK/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",OTT SPORT TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/OTT_SPORT/chunklist_w587040219.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",PALA TV
+http://yktv2828.ozelip.com:30838/palatv/palatv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="png",YANSIMA sinema TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA MÜZİK
@@ -140,6 +140,8 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",YERLİ SPOR TV
 https://yarimadatv.ozelip.com:3513/stream/play.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",OTT SPORT TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/OTT_SPORT/chunklist_w587040219.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",ÇAĞRI TV 
 http://palatv34.ozelip.com:22372/cagritv/cagritv/playlist.m3u8
@@ -198,8 +200,8 @@ http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",ŞİRİNLER TV 
 https://new.cache-stream.workers.dev/stream/UCOTtx7aofPmgcwMp8cLQKHw/live.m3u8
 
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: ROMAN TV" tvg-logo="http://logo.multicms.info/logoslar/roman.png" group-title="TR-MUZIK",TR: ROMAN TV
-http://143951.iptvone.eu:80/ufukhalis/ndl62532144/23976
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KASTAMONU TV  
+http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="TBRT.png",Siteler TV
 https://vdo.digitalbox.xyz:3925/stream/play.m3u8
