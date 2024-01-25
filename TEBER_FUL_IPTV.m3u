@@ -45,6 +45,45 @@ https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",KANAL 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/ULUSAL-logo-2.png", Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="[TR] TV8 HD" tvg-logo="https://static.epg.best/tr/TV8.tr.png" group-title="TR➤ ULUSAL",TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
+
+#EXTINF: -1 group-title="Ulusal", TV8.5
+https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
+
+#EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ 
+https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW TURK HD
+https://showturk.blutv.com/blutv_showturk2/live.m3u8  
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV HD
+http://116.202.238.88/ATV_TR/index.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", A2 
+https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 TV FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",TV 360 FHD
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
 #EXTINF: -1 group-title="Sinema", FİL TV
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
 
@@ -261,44 +300,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ANGARA_BELEDİYESİ" logo="/ANGAR_BELEDİYESİ_TV-logo-2.png",YUSUF ELİ
 https://cdn-yusufelibeltrtv.yayin.com.tr/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",KANAL 7 HD
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/ULUSAL-logo-2.png", Kanal 7 Avrupa
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="[TR] TV8 HD" tvg-logo="https://static.epg.best/tr/TV8.tr.png" group-title="TR➤ ULUSAL",TV8 HD
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
-
-#EXTINF: -1 group-title="Ulusal", TV8.5
-https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
-
-#EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW TURK HD
-https://showturk.blutv.com/blutv_showturk2/live.m3u8  
-
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
-http://canli.haber365.com.tr/tr/startv/index.m3u8
-
-#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV HD
-http://116.202.238.88/ATV_TR/index.m3u8
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", A2 
-https://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8
-
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 TV FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",TV 360 FHD
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
-#EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL 28
 http://palatv34.ozelip.com:22372/kanal28/kanal28/playlist.m3u8
