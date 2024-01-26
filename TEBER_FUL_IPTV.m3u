@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 
+NOT:KANALLARIMIZ TOPLAMA OLUP KESİNLİKLE PLATFORMLARLA İLGİSİ YOKDUR VE HİÇ KİMSEYE PARA İLE SATILMAZ KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLAR OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR OLANLARDA ZATEN GURUBDAN ATILMIŞLARDIR SAYGILARIMLA TEBER GURUP PAYLAŞIM SAYFASI.....
+
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR_TV/playlist.m3u8
 
@@ -83,18 +86,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-
-#EXTINF: -1 group-title="Sinema", FİL TV
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
-
-#EXTINF: -1 group-title="Sinema", FİLMAX
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1282/index.m3u8
-
-#EXTINF: -1 group-title="Sinema", FİLM CLUP
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m3u8
-
-#EXTINF: -1 group-title="Sinema", FİLM CLUP ACTİON
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AKTİF TV
 http://nrttn172.kesintisizyayin.com:29010/aktif/aktif/playlist.m3u8
@@ -435,42 +426,12 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 ***********BELGESEL TV****denizkaratasli********************
 #EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪ [ TR | BELGESEL ] ₪₪₪₪₪" tvg-logo="https://seeklogo.com/images/T/turkiye-yuvarlak-logo-6483C54DD8-seeklogo.com.png" group-title="08)TR➾ BELGESEL",₪₪₪₪₪ [ TR | BELGESEL ] ₪₪₪₪₪
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/139
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="BEIN IZ HD" tvg-logo="https://seeklogo.com/images/B/bein-iz-logo-A358CCCC26-seeklogo.com.png" group-title="08)TR➾ BELGESEL",BEIN IZ HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/135
-#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="BEIN GURME HD" tvg-logo="https://seeklogo.com/images/B/bein-gurme-logo-3FA51981B3-seeklogo.com.png" group-title="08)TR➾ BELGESEL",BEIN GURME HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/134
+
 #EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC HD" tvg-logo="https://seeklogo.com/images/T/tlc-logo-774E9A4AB6-seeklogo.com.png" group-title="08)TR➾ BELGESEL",TLC HD
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/136
 #EXTINF:-1 tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="https://i.hizliresim.com/ch9nsfc.png" group-title="08)TR➾ BELGESEL",DMAX HD
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/122
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://seeklogo.com/images/N/National_Geographic_Channel-logo-F53F22661B-seeklogo.com.png" group-title="08)TR➾ BELGESEL",NATIONAL GEOGRAPHIC HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/130
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD HD" tvg-logo="https://seeklogo.com/images/N/nat-geo-wild-logo-CFB1305DCD-seeklogo.com.png" group-title="08)TR➾ BELGESEL",NAT GEO WILD HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/131
-#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="BBC EARTH HD" tvg-logo="https://i.hizliresim.com/filr0zm.png" group-title="08)TR➾ BELGESEL",BBC EARTH HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/133
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY HD" tvg-logo="https://seeklogo.com/images/D/discuss-viasat-history-hd-logo-8C49AE75F4-seeklogo.com.png" group-title="08)TR➾ BELGESEL",VIASAT HISTORY HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/124
-#EXTINF:-1 tvg-id="" tvg-name="VIASAT EXPLORE HD" tvg-logo="https://seeklogo.com/images/V/viasat-explore-logo-BB2237F5F7-seeklogo.com.png" group-title="08)TR➾ BELGESEL",VIASAT EXPLORE HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/94757
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-B1541007FE-seeklogo.com.png" group-title="08)TR➾ BELGESEL",DISCOVERY CHANNEL HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/127
-#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID HD" tvg-logo="https://seeklogo.com/images/I/investigation-discovery-logo-D8839FBD94-seeklogo.com.png" group-title="08)TR➾ BELGESEL",DISCOVERY ID HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/128
-#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.hizliresim.com/gmgspsm.png" group-title="08)TR➾ BELGESEL",HISTORY CHANNEL HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/129
-#EXTINF:-1 tvg-id="" tvg-name="DOCUAX SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Space_TV_loqosu_%282023-h.h.%29.png" group-title="08)TR➾ BELGESEL",DOCUAX SPACE HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9244
-#EXTINF:-1 tvg-id="docubox.tr" tvg-name="DOCUBOX HD" tvg-logo="https://i.hizliresim.com/r473cj9.png" group-title="08)TR➾ BELGESEL",DOCUBOX HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9247
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://i.hizliresim.com/3qdf0qf.png" group-title="08)TR➾ BELGESEL",LOVE NATURE HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/16841
-#EXTINF:-1 tvg-id="davinci.tr" tvg-name="DA VINCI HD" tvg-logo="https://i.hizliresim.com/cbnpmug.png" group-title="08)TR➾ BELGESEL",DA VINCI HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/16914
-#EXTINF:-1 tvg-id="" tvg-name="INSIGHT TV HD" tvg-logo="https://i.hizliresim.com/88s2jba.png" group-title="08)TR➾ BELGESEL",INSIGHT TV HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/19104
-#EXTINF:-1 tvg-id="" tvg-name="FAST FUN BOX HD" tvg-logo="https://i.hizliresim.com/850019l.png" group-title="08)TR➾ BELGESEL",FAST FUN BOX HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9249
+
 #EXTINF:-1 tvg-id="" tvg-name="SMARTBOX BELGESEL TV" tvg-logo="https://seeklogo.com/images/S/smartbox-logo-3F27182780-seeklogo.com.png" group-title="08)TR➾ BELGESEL",SMARTBOX BELGESEL TV
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22401
 #EXTINF:-1 tvg-id="" tvg-name="STINGRAY AMBIANCE HD" tvg-logo="https://i.hizliresim.com/h1w1f0u.png" group-title="08)TR➾ BELGESEL",STINGRAY AMBIANCE HD
@@ -487,90 +448,12 @@ http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/119
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/121
 #EXTINF:-1 tvg-id="" tvg-name="AV TV" tvg-logo="https://i.hizliresim.com/7235wgx.png" group-title="08)TR➾ BELGESEL",AV TV
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/123
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NAT GEO HD RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59932
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NAT GEO WILD HD RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59933
-#EXTINF:-1 tvg-id="" tvg-name="TR: NATURE ESCAPE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NATURE ESCAPE RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59934
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT BELGESEL RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59936
-#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI LEARNING RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DA VINCI LEARNING RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59937
-#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DOCUBOX RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59938
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: VIASAT HISTORY RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59939
-#EXTINF:-1 tvg-id="" tvg-name="TR: 24 KITCHEN HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: 24 KITCHEN HD RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59940
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: BOOMERANG HD RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59941
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DISCOVERY CHANNEL RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59942
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DISCOVERY SCIENCE RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59943
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: LOVE NATURE RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59945
-#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: OUTDOOR RAW
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59947
 
 
 ********denizkaratasli********[ SINEMA ]**************
 
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX FHD" tvg-logo="https://i.hizliresim.com/n5u19vr.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: FX FHD
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/203
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bein_box_office.png/600px-Bein_box_office.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: BEIN BOX OFFICE 1
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/67359
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bein_box_office.png/600px-Bein_box_office.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: BEIN BOX OFFICE 2
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/67360
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bein_box_office.png/600px-Bein_box_office.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: BEIN BOX OFFICE 3
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/67361
-#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN MOVIES TURK HD" tvg-logo="https://i.hizliresim.com/btb1lgw.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN MOVIES TURK HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/170
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: beIN MOVIES PREMIERE HD" tvg-logo="https://i.hizliresim.com/n2g6gbj.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN MOVIES PREMIERE HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/172
-#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN MOVIES PREMIERE 2 HD" tvg-logo="https://i.hizliresim.com/2kb23i0.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN MOVIES PREMIERE 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/173
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="https://i.hizliresim.com/8eo4b4i.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN MOVIES STARS HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/174
-#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: beIN SERIES 1 HD" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN SERIES 1 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/177
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SERIES 2 HD" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN SERIES 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/95796
-#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: beIN SERIES 3 HD" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN SERIES 3 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/178
-#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: beIN SERIES 4 HD" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN SERIES 4 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/180
-#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR: MOVIE SMART TURK HD" tvg-logo="https://i.hizliresim.com/p8w90nq.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: MOVIE SMART TURK HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/184
-#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR: MOVIE SMART CLASSIC HD" tvg-logo="http://89.105.197.2/logo/moviesmartclassic.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: MOVIE SMART CLASSIC HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/192
-#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="https://i.hizliresim.com/a3dc27k.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: DIZI SMART PREMIUM HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/194
-#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD" tvg-logo="https://i.hizliresim.com/sf63umv.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: DIZI SMART MAX HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/195
-#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV" tvg-logo="https://i.hizliresim.com/kaxajen.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/196
-#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2" tvg-logo="https://i.hizliresim.com/qtiul2q.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV 2
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/29068
-#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA TV YERLI" tvg-logo="https://i.hizliresim.com/6zvi7p1.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV YERLI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/197
-#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA TV YERLI 2" tvg-logo="https://i.hizliresim.com/pf5bwfr.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV YERLI 2
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/18781
-#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI" tvg-logo="https://i.hizliresim.com/ozjwqy1.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV KOMEDI
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/198
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV AKSIYON" tvg-logo="https://i.hizliresim.com/dopp4ya.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV AKSIYON
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/199
-#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR: SINEMA TV AKSIYON 2" tvg-logo="https://i.hizliresim.com/14dh2a5.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV AKSIYON 2
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9232
-#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV AILE" tvg-logo="https://i.hizliresim.com/bad9ukj.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV AILE
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/200
-#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001" tvg-logo="https://i.hizliresim.com/3sm3jrv.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV 1001
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/201
-#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002" tvg-logo="https://i.hizliresim.com/fs1gpzn.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV 1002
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9231
-#EXTINF:-1 tvg-id="" tvg-name="EPIC DRAMA HD" tvg-logo="https://i.hizliresim.com/kwzyklp.png" group-title="10)TR➾ SINEMA & EGLENCE",EPIC DRAMA HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/19215
 #EXTINF:-1 tvg-id="" tvg-name="FILMBOX 4K UHD" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX 4K UHD
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/228832
 #EXTINF:-1 tvg-id="" tvg-name="FILMBOX HD" tvg-logo="https://i.hizliresim.com/42qw072.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX HD
@@ -1094,99 +977,6 @@ http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/185157
 
 ***********amazingiptv*SiNEMA TV*************
 
-#EXTINF:0,TR | SiNEMA TV AiLE 2 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/411982
-#EXTINF:0,TR | SINEMA TV KOMEDI 2 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/411981
-#EXTINF:0,TR: SINEMA YERLI 2
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/421974
-#EXTINF:0,TR | beIN SERIES VICE HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92373
-#EXTINF:0,TR | beIN SERIES SCI-FI HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92375
-#EXTINF:0,TR | beIN SERIES COMEDY HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92374
-#EXTINF:0,TR | beIN MOVIES TURK HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92376
-#EXTINF:0,TR | beIN MOVIES PREMIER HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92378
-#EXTINF:0,TR | beIN MOVIES PREMIER 2 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92379
-#EXTINF:0,TR | beIN MOVIES FAMILY HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92380
-#EXTINF:0,TR | beIN MOVIES ACTION HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92381
-#EXTINF:0,TR | beIN MOVIES ACTION 2 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92382
-#EXTINF:0,TR | beINBOX OFFICE 1 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92383
-#EXTINF:0,TR | beINBOX OFFICE 2 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92384
-#EXTINF:0,TR | MOVIESMART TURK HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92385
-#EXTINF:0,TR | MOVIESMART PREMIUM HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92386
-#EXTINF:0,TR | MOVIESMART PREMIUM 2 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92387
-#EXTINF:0,TR | MOVIESMART CLASSIC HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92388
-#EXTINF:0,TR | DIZISMART PREMIUM HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92389
-#EXTINF:0,TR | DIZI SMART MAX HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92390
-#EXTINF:0,TR | FX HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92392
-#EXTINF:0,TR | SiNEMA TV YERLi HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92393
-#EXTINF:0,TR | SiNEMA TV 1001 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92394
-#EXTINF:0,TR | SiNEMA TV AiLE HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92395
-#EXTINF:0,TR | SiNEMA TV AKSiYON HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92396
-#EXTINF:0,TR | SiNEMA TV HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92397
-#EXTINF:0,TR | SINEMA TV AKSIYON 2 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92398
-#EXTINF:0,TR | SINEMA TV 2 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92399
-#EXTINF:0,TR | SINEMA TV KOMEDI HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92400
-#EXTINF:0,TR | SINEMA TV 1002 HD
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/92402
-#EXTINF:0,✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪
-#EXTGRP:TR | beIN  D-SMART
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/97391
 #EXTINF:0,ICEFILM ➠ Vizyon 1
 #EXTGRP:TR | 724 SINEMA   EGLENCE
 http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/423793
@@ -1603,225 +1393,7 @@ http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/59915
 
 *************** SPOR ***amazingiptv***********
 
-#EXTINF:-1,✪✪✪✪✪ TURK EXXEN SPORTS ✪✪✪✪✪
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/118303
-#EXTINF:-1,EXXEN SPORT 1 HD**
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/422731
-#EXTINF:-1,EXXEN SPORT 1 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/422732
-#EXTINF:-1,TR: EXXEN 1 [HD] maçta aktif
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/417944
-#EXTINF:-1,TR: EXXEN 1 [FHD] maçta aktif
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/417945
-#EXTINF:-1,EXXEN SPORT 2 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/422733
-#EXTINF:-1,EXXEN SPORT 3
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/422734
-#EXTINF:-1,[TR] EXXEN SPORTS 3 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/256705
-#EXTINF:-1,[TR] EXXEN SPORTS 4 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/256706
-#EXTINF:-1,[TR] EXXEN SPORTS 5 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/256707
-#EXTINF:-1,[TR] EXXEN SPORTS 6 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/256708
-#EXTINF:-1,[TR] EXXEN SPORTS 8 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/276700
-#EXTINF:-1,TR: EXXEN 1 SD+ (maczamani)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/406842
-#EXTINF:-1,TR: TIVIBUSPOR 1 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409365
-#EXTINF:-1,TR • TİVİBUSPOR FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409368
-#EXTINF:-1,TR • TİVİBUSPOR 1 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409371
-#EXTINF:-1,TR • TİVİBUSPOR 2 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409372
-#EXTINF:-1,TR: TiViBUSPOR 2 HD+
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409362
-#EXTINF:-1,TR • TİVİBUSPOR 2 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409373
-#EXTINF:-1,TR: TIVIBUSPOR 2 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409366
-#EXTINF:-1,TR: TiViBUSPOR 3 HD+
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409363
-#EXTINF:-1,TR • TİVİBUSPOR 3 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409375
-#EXTINF:-1,TR: TIVIBUSPOR 3 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409367
-#EXTINF:-1,TR: TIVIBUSPOR 4(maczamani)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409364
-#EXTINF:-1,TR: S SPORT + HD (Maç Zamanı)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412168
-#EXTINF:-1,TR: S SPORT + FHD (Maç Zamanı)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412169
-#EXTINF:-1,TR: S SPORT + 2 HD (Maç Zamanı)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412170
-#EXTINF:-1,TR: S SPORT + 2 FHD (Maç Zamanı)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412171
-#EXTINF:-1,TR: S SPORT + 3 HD (Maç Zamanı)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412172
-#EXTINF:-1,TR: S SPORT + 4 HD (Maç Zamanı)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412173
-#EXTINF:-1,TR: S SPORT + 6 HD (Maç Zamanı)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412175
-#EXTINF:-1,TR: S SPORT + 7 HD (Maç Zamanı)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412176
-#EXTINF:-1,TR: S SPORT + 9 HD (Maç Zamanı)
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412178
-#EXTINF:-1,TR: EDGE SPORT HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/421978
-#EXTINF:-1,TR: SPORTS TV HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/421979
-#EXTINF:-1,✪✪✪✪✪ Bein Sport ✪✪✪✪✪
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412957
-#EXTINF:-1,[TR] BEIN SPORTS 1 SD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428026
-#EXTINF:-1,[TR] BEIN SPORTS 1 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428027
-#EXTINF:-1,[TR] BEIN-SPORTS 1 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428028
-#EXTINF:-1,| TR | b**N SPORTS 1 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399652
-#EXTINF:-1,[TR] BEIN SPORTS 1 FHD¹ 50 FPS
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428030
-#EXTINF:-1,| TR | b**N SPORTS 1 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399650
-#EXTINF:-1,| TR | b**N SPORTS 1 FHD HEVC
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399649
-#EXTINF:-1,| TR | BEIN SPORTS 1 FHD¹ 50 FPS
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409462
-#EXTINF:-1,| TR | BEIN SPORTS 1 [ 4K ]
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/411955
-#EXTINF:-1,[TR] BeIN SPORTS 1 4K HECV
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428029
-#EXTINF:-1,[TR] BEIN SPORTS 1 4K UYDU
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428031
-#EXTINF:-1,TR | beIN SPORT HABER FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/412301
-#EXTINF:-1,| TR | BEIN SPORTS 2 SD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399656
-#EXTINF:-1,| TR | BEIN SPORTS 2 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399655
-#EXTINF:-1,| TR | BEIN SPORTS 2 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399654
-#EXTINF:-1,| TR | BEIN SPORTS 3 SD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399659
-#EXTINF:-1,| TR | BEIN SPORTS 3 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399658
-#EXTINF:-1,| TR | BEIN SPORTS 3 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399657
-#EXTINF:-1,| TR | BEIN SPORTS 4 SD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399662
-#EXTINF:-1,| TR | BEIN SPORTS 4 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399661
-#EXTINF:-1,| TR | BEIN SPORTS 4 FHD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399660
-#EXTINF:-1,TR: b**N SP0RT MAX 2 HD+
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/408714
-#EXTINF:-1,TR: b**N SP0RT MAX 2 HD
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/408715
-#EXTINF:-1,TR: b**N CNNECT 2 maczamani
-http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/408717
 
-**************denizkaratasli******SPOR*****************************
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS FEED YAYIN mac saati aktif" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS FEED YAYIN mac saati aktif
-http://23.146.40.157:8080//RqBMQ8JdmyrK/12
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 FULL HD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 1 FULL HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/5395
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 1 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/8
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 QHD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 1 QHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/5396
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 1 SD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 MOBIL" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 1 MOBIL
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/11
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 480p" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 1 480p
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/26
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 4K YUKSEK KALITE" tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 1 4K YUKSEK KALITE
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/7
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 FHD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 2 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/14
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/15
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 SD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 2 SD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/16
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 FHD" tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 3 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/17
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 3 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/18
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 SD MOBIL" tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 3 SD MOBIL
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9237
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4 FHD" tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 4 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/19
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 4 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9238
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 5 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/69216
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="01)TR➾ beIN SPORTS",beIN SPORTS 5 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/69215
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 FHD" tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS MAX 1 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 HD" tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS MAX 1 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9233
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 Yedek" tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS MAX 1 Yedek
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9234
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 FHD" tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS MAX 2 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/21
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 HD" tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS MAX 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9235
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 Yedek" tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS MAX 2 Yedek
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9236
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER FHD" tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS HABER FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER HD" tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="01)TR➾ beIN SPORTS",beIN SPORTS HABER HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22358
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="01)TR➾ beIN SPORTS",BEINCONNET CANLI MAC HD -1
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/30561
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="01)TR➾ beIN SPORTS",BEINCONNET CANLI MAC HD -2
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/30562
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="01)TR➾ beIN SPORTS",BEINCONNET CANLI MAC HD -3
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/30563
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -4" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="01)TR➾ beIN SPORTS",BEINCONNET CANLI MAC HD -4
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/30564
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="01)TR➾ beIN SPORTS",BEINCONNET CANLI MAC HD -5
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/30565
-#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -6" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="01)TR➾ beIN SPORTS",BEINCONNET CANLI MAC HD -6
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/30566
-#EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪ [ TURKEY SPORT ] ₪₪₪₪₪" tvg-logo="https://seeklogo.com/images/T/turkiye-yuvarlak-logo-6483C54DD8-seeklogo.com.png" group-title="02)TR➾ SPOR",₪₪₪₪₪ [ TURKEY SPORT ] ₪₪₪₪₪
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/13
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT FHD" tvg-logo="https://i.hizliresim.com/b5gwe5i.png" group-title="02)TR➾ SPOR",S SPORT FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/24
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT HD" tvg-logo="https://i.hizliresim.com/b5gwe5i.png" group-title="02)TR➾ SPOR",S SPORT HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20085
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S SPORT 2 FHD" tvg-logo="https://i.hizliresim.com/28owbto.png" group-title="02)TR➾ SPOR",S SPORT 2 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/25
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD" tvg-logo="https://i.hizliresim.com/28owbto.png" group-title="02)TR➾ SPOR",S SPORT 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20086
-#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART FHD" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="02)TR➾ SPOR",SPOR SMART FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20929
-#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART FHD Yedek" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="02)TR➾ SPOR",SPOR SMART FHD Yedek
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/23
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="SPOR SMART HD" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="02)TR➾ SPOR",SPOR SMART HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/19465
-#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART HD Yedek" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="02)TR➾ SPOR",SPOR SMART HD Yedek
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/22489
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="SPOR SMART 2 HD" tvg-logo="https://i.hizliresim.com/sfno83t.png" group-title="02)TR➾ SPOR",SPOR SMART 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/19320
-#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2 HD Yedek" tvg-logo="https://i.hizliresim.com/sfno83t.png" group-title="02)TR➾ SPOR",SPOR SMART 2 HD Yedek
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20087
-#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="02)TR➾ SPOR",TIVIBU SPOR HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/91777
-#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 1 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="02)TR➾ SPOR",TIVIBU SPOR 1 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/27
-#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 2 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="02)TR➾ SPOR",TIVIBU SPOR 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/28
-#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 3 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="02)TR➾ SPOR",TIVIBU SPOR 3 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/29
-#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 4 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="02)TR➾ SPOR",TIVIBU SPOR 4 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/36055
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.hizliresim.com/4zr16ap.png" group-title="02)TR➾ SPOR",EUROSPORT 1 HD
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/34
 #EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.hizliresim.com/1wmmepl.png" group-title="02)TR➾ SPOR",EUROSPORT 2 HD
@@ -1852,54 +1424,7 @@ http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20323
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/20324
 #EXTINF:-1 tvg-id="" tvg-name="EDGE SPORT HD" tvg-logo="http://89.105.197.2/logo/edgesport.png" group-title="02)TR➾ SPOR",EDGE SPORT HD
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/21010
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 1 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/35702
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 1 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/36269
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 SD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 1 SD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/188557
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 576p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 1 576p
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/37842
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 2 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/36085
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 2 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/36268
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 3 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/36086
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 3 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/36267
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 4 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/37725
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 4 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/37726
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 5 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/37727
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 5 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/37728
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 6 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/37729
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 6 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/37730
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 7 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/50566
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 7 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/50567
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 FHD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 8 FHD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/50568
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 HD" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="02)TR➾ SPOR",EXXEN SPOR 8 HD
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/50569
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 1 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="02)TR➾ SPOR",S SPORT PLUS 1 HD ( Yayın zamanı aktif )
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/35959
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 2 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="02)TR➾ SPOR",S SPORT PLUS 2 HD ( Yayın zamanı aktif )
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/35960
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 3 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="02)TR➾ SPOR",S SPORT PLUS 3 HD ( Yayın zamanı aktif )
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/35961
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 4 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="02)TR➾ SPOR",S SPORT PLUS 4 HD ( Yayın zamanı aktif )
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/35962
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 5 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="02)TR➾ SPOR",S SPORT PLUS 5 HD ( Yayın zamanı aktif )
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/35963
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 6 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="02)TR➾ SPOR",S SPORT PLUS 6 HD ( Yayın zamanı aktif )
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/35964
+
 
 
 *****--₪₪₪₪₪ [ YEREL KANALLAR ] ₪₪₪₪***
