@@ -112,9 +112,12 @@ https://embedlp.becdn.net/womantv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GÖRELE TV
 https://goreletv.ozelip.com.tr:3843/hybrid/play.m3u8
+
 ***************************tvcdn**BÖLÜMÜ***********************************
+
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ab34df2-5bd2-48ce-a0ad-e1bb1eb7d02e.png" group-title="Yerel",HRT 
 http://stream.tvcdn.net/yerel/hrt-akdeniz.m3u8
+
 #EXTINF:1 tvg-id="Tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="Yerel",Tivi6
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="Diğer-Eğlence",Cine 1
