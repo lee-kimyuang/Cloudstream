@@ -1,7 +1,5 @@
 ﻿#EXTM3U
 
-#EXTM3U
-
 NOT:KANALLARIMIZ TOPLAMA OLUP KESİNLİKLE PLATFORMLARLA İLGİSİ YOKDUR VE HİÇ KİMSEYE PARA İLE SATILMAZ KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLAR OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR OLANLARDA ZATEN GURUBDAN ATILMIŞLARDIR SAYGILARIMLA TEBER GURUP PAYLAŞIM SAYFASI.....
 
 
@@ -79,9 +77,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV HD
 http://116.202.238.88/ATV_TR/index.m3u8
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ", Yarının Dünyası 
-https://rovideo.xyz/196/tt1964418.1080p.tr.m3u8
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 TV FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",TV 360 FHD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -243,6 +238,26 @@ http://77.68.121.3/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KUZEY TV HD" tvg-logo="" group-title="TR | MUZIK",KUZEY TV HD
 http://51.158.62.240:8080/wiptvplus/rrdfAg9xuBzR/56639
+
+*************TEBER FİLMLER****************************
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ", Yarının Dünyası 
+https://rovideo.xyz/196/tt1964418.1080p.tr.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ", JUNGLE TR DUB
+https://rovideo.xyz/223/tt22352848.1080p.tr.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ", BULU BADLE 
+https://rovideo.xyz/936/tt9362930.1080p.tr.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ",SÜPER KIZ 
+https://rovideo.xyz/227/tt22769820.1080p.tr.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ",ÖRÜMCEK EVRENİNDE
+https://rovideo.xyz/936/tt9362722.720p.tr.m3u8
+
+
+***********MÜZİK************************************
 
 #EXTINF:-1,ICEMUZIK ➠ Neşet Ertaş
 http://amazingiptv.one:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/424405
