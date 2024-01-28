@@ -113,9 +113,51 @@ https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GÖRELE TV
 https://goreletv.ozelip.com.tr:3843/hybrid/play.m3u8
 
+*************TEBER FİLM****************************
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AMBULANS
+https://rovideo.xyz/499/tt4998632.1080p.tr.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Yarının Dünyası 
+https://rovideo.xyz/196/tt1964418.1080p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", JUNGLE TR DUB
+https://rovideo.xyz/223/tt22352848.1080p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", BULU BADLE 
+https://rovideo.xyz/936/tt9362930.1080p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÜPER KIZ 
+https://rovideo.xyz/227/tt22769820.1080p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ÖRÜMCEK EVRENİNDE
+https://rovideo.xyz/936/tt9362722.720p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ISTASYON TV 
+http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ARIM BALIM PETEGIM 
+http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SATİN ALİNAN KOCA 
+http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KUCUK SEVGILIM HD 
+http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",OYUN BITTI HD 
+http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YADELLER HD 
+http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BATAN GÜNEŞ HD 
+https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
+
 ***************************tvcdn**BÖLÜMÜ***********************************
 
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ab34df2-5bd2-48ce-a0ad-e1bb1eb7d02e.png" group-title="Yerel",HRT 
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ab34df2-5bd2-48ce-a0ad-e1bb1eb7d02e.png" group-title="Yerel",HRT  
 http://stream.tvcdn.net/yerel/hrt-akdeniz.m3u8
 
 #EXTINF:1 tvg-id="Tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="Yerel",Tivi6
@@ -964,43 +1006,6 @@ http://77.68.121.3/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KUZEY TV HD" tvg-logo="" group-title="TR | MUZIK",KUZEY TV HD
 http://51.158.62.240:8080/wiptvplus/rrdfAg9xuBzR/56639
-
-*************TEBER FİLMLER****************************
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ", Yarının Dünyası 
-https://rovideo.xyz/196/tt1964418.1080p.tr.m3u8
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ", JUNGLE TR DUB
-https://rovideo.xyz/223/tt22352848.1080p.tr.m3u8
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ", BULU BADLE 
-https://rovideo.xyz/936/tt9362930.1080p.tr.m3u8
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ",SÜPER KIZ 
-https://rovideo.xyz/227/tt22769820.1080p.tr.m3u8
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:FİLM" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR DUBLAJ",ÖRÜMCEK EVRENİNDE
-https://rovideo.xyz/936/tt9362722.720p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT YENİ EKLENEN İPTV LER-TV-logo-2.png",ISTASYON TV 
-http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT YENİ EKLENEN İPTV LER-TV-logo-2.png",ARIM BALIM PETEGIM 
-http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT YENİ EKLENEN İPTV LER-TV-logo-2.png",SATİN ALİNAN KOCA 
-http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT YENİ EKLENEN İPTV LER-TV-logo-2.png",KUCUK SEVGILIM HD 
-http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT YENİ EKLENEN İPTV LER-TV-logo-2.png",OYUN BITTI HD 
-http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT YENİ EKLENEN İPTV LER-TV-logo-2.png",YADELLER HD 
-http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT YENİ EKLENEN İPTV LER-TV-logo-2.png",BATAN GÜNEŞ HD 
-https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
 
 
 ***********MÜZİK************************************
