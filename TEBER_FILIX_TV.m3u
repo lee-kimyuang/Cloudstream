@@ -104,9 +104,6 @@ http://new.cache-stream.workers.dev/stream/UCoIUysIrvGxoDw-GkdOGjRw/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.KOBİM TV
 https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist_w551251138.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_HABER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",7/24 TV 
-http://new.cache-stream.workers.dev/stream/UCqbCHJpfLyjajJZgJQHyBSw/live.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",WOMAN TV
 https://embedlp.becdn.net/womantv.m3u8
 
@@ -158,7 +155,7 @@ https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
 ***************************tvcdn**BÖLÜMÜ***********************************
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ab34df2-5bd2-48ce-a0ad-e1bb1eb7d02e.png" group-title="Yerel",HRT  
-http://stream.tvcdn.net/yerel/hrt-akdeniz.m3u8
+https://proxy.linkeddatafragments.org/http://stream.tvcdn.net/yerel/hrt-akdeniz.m3u8
 
 #EXTINF:1 tvg-id="Tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="Yerel",Tivi6
 http://stream.tvcdn.net/yerel/tivi6.m3u8
